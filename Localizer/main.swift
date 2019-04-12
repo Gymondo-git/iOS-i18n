@@ -10,6 +10,7 @@ guard args.count > 2 else {
   exit(1)
 }
 
+// read .strings file
 func parseFile(at path: URL) -> [String:String] {
   do {
     let content = try String(contentsOf: path, encoding: .utf8)
@@ -35,20 +36,31 @@ func parseFile(at path: URL) -> [String:String] {
   }
 }
 
-let destDict = parseFile(at: URL(fileURLWithPath: args[1])) // japanese
-let srcDict = parseFile(at: URL(fileURLWithPath: args[2])) // german
-
-let sanitized = destDict.map { arg -> (key: String, value: String) in
-  if let srcValue = srcDict[arg.key] {
-    return (arg.key, srcValue)
-  }
+// copy
+func copyContent(_ content: [String:String], to replacement: [String:String]) -> [String:String] {
+  let sanitized = Dictionary(uniqueKeysWithValues: replacement.map { kv -> (key: String, value: String) in
+    if let srcValue = content[kv.key] {
+      return (kv.key, srcValue)
+    }
+    
+    return (kv.key, "\(kv.value) // TODO: check this")
+  })
   
-  return (arg.key, "\(arg.value) // TODO: check this")
+  return sanitized
 }
 
-let possibleUnused = srcDict.filter { !destDict.keys.contains($0.key) }
+// write .strings file
+func writeContent(_ content: [String:String], to path: URL) {
+  
+}
+
+let destinationFilePath = URL(fileURLWithPath: args[1])
+let destDict = parseFile(at: destinationFilePath) // japanese
+let srcDict = parseFile(at: URL(fileURLWithPath: args[2])) // german
+
+let sanitized = copyContent(srcDict, to: destDict)
+
+//let possibleUnused = srcDict.filter { !destDict.keys.contains($0.key) }
 
 // german file has 27 additional KV pairs
 // japanese file has 21 elements without pre-exising KV pairs
-
-print(sanitized.filter({ $0.value.contains("TODO: check this") }))
