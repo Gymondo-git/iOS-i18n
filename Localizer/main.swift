@@ -2,13 +2,124 @@
 
 import Foundation
 
-let args = CommandLine.arguments
+enum Option: String {
+  case path = "p"
+  case filename = "f"
+  case unknown
+  
+  init(value: String) {
+    switch value {
+    case "p":
+      self = .path
+    case "f":
+      self = .filename
+    default:
+      self = .unknown
+    }
+  }
+  
+  func printError() {
+    fputs("\u{001B}[0;31m-\(self.rawValue)\(" parameter requires value")\n", stderr)
+  }
+}
 
-guard args.count > 2 else {
-  dump("filePath missing")
+let args = Array(CommandLine.arguments.suffix(from: 1))
+var path: String = FileManager.default.currentDirectoryPath
+var filename: String?
+
+func getOption(_ option: String) -> (option: Option, value: String) {
+  return (Option(value: option), option)
+}
+
+func parseArguments(_ args: [String]) {
+  for i in 0 ..< args.count {
+    let arg = args[i]
+    let option = getOption(String(arg[arg.index(arg.startIndex, offsetBy: 1)]))
+    
+    switch option.option {
+    case .path:
+      guard args.count >= i + 1 else {
+        Option.path.printError()
+        
+        exit(1)
+      }
+      
+      let nextArg = args[i + 1]
+      let value = getOption(String(nextArg[nextArg.index(arg.startIndex, offsetBy: 1)]))
+      
+      guard value.option == .unknown else {
+        Option.path.printError()
+        
+        exit(1)
+      }
+      
+      path = args[i + 1]
+    case .filename:
+      guard args.count >= i + 1 else {
+        Option.filename.printError()
+        
+        exit(1)
+      }
+      
+      let nextArg = args[i + 1]
+      let value = getOption(String(nextArg[nextArg.index(arg.startIndex, offsetBy: 1)]))
+      
+      guard value.option == .unknown else {
+        Option.filename.printError()
+        
+        exit(1)
+      }
+      
+      filename = args[i + 1]
+    default:
+      continue
+    }
+  }
+}
+
+parseArguments(args)
+
+guard let fileName = filename else {
+  fputs("\u{001B}[0;31mNo filename provided. Use -f!\n", stderr)
   
   exit(1)
 }
+
+func buildURLs() -> (layout: URL, src: URL, replacement: URL) {
+  var layoutFileUrl: URL
+  var srcStringsFileUrl: URL
+  var replacementStringsFileUrl: URL
+  
+  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/Base.lproj/\(fileName).storyboard") {
+    layoutFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/Base.lproj/\(fileName).storyboard")
+  } else if FileManager.default.fileExists(atPath: "\(path)/Gymondo/Base.lproj/\(fileName).xib") {
+    layoutFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/Base.lproj/\(fileName).xib")
+  } else {
+    fputs("\u{001B}[0;31m-no layout file found for [\(fileName)] in [\(path)/Gymondo/Base.lproj]\n", stderr)
+    
+    exit(1)
+  }
+  
+  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/de.lproj/\(fileName).strings") {
+    srcStringsFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/de.lproj/\(fileName).strings")
+  } else {
+    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/Gymondo/de.lproj]\n", stderr)
+    
+    exit(1)
+  }
+  
+  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/ja.lproj/\(fileName).strings") {
+    replacementStringsFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/ja.lproj/\(fileName).strings")
+  } else {
+    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/Gymondo/ja.lproj]\n", stderr)
+    
+    exit(1)
+  }
+  
+  return (layout: layoutFileUrl, src: srcStringsFileUrl, replacement: replacementStringsFileUrl)
+}
+
+let urls = buildURLs()
 
 // read .strings file
 func parseFile(at path: URL) -> [String:String] {
@@ -57,7 +168,7 @@ func copyContent(_ content: [String:String], to replacement: [String:String]) ->
       return (kv.key, srcValue)
     }
     
-    let ibID = String(kv.key.split(separator: ".").first!)
+//    let ibID = String(kv.key.split(separator: ".").first!)
     
     // TODO: get outlet name from following function
 //    let outlet = findIBOutlet(by: ibID, in: URL())
@@ -89,9 +200,8 @@ func writeContent(_ content: [String:String], to path: URL) {
   }
 }
 
-let destinationFilePath = URL(fileURLWithPath: args[1])
-let destDict = parseFile(at: destinationFilePath) // japanese
-let srcDict = parseFile(at: URL(fileURLWithPath: args[2])) // german
+let destDict = parseFile(at: urls.replacement) // japanese
+let srcDict = parseFile(at: urls.src) // german
 let sanitized = copyContent(srcDict, to: destDict)
 
-writeContent(sanitized, to: destinationFilePath)
+writeContent(sanitized, to: urls.replacement)

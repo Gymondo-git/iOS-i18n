@@ -63,11 +63,19 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "/Users/ronny.gerasch/Development/Gymondo/iOS/Gymondo/ja.lproj/FitnessProfile.strings"
+            argument = "-p"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "/Users/ronny.gerasch/Development/Gymondo/iOS/Gymondo/de.lproj/FitnessProfile.strings"
+            argument = "/Users/ronny.gerasch/Development/Gymondo/iOS"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-f"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "FitnessProfile"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
