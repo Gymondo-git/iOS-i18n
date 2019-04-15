@@ -67,7 +67,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "/Users/ronny.gerasch/Development/Gymondo/iOS"
+            argument = "/Users/philipp.duemlein/gymondo-app-ios"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument

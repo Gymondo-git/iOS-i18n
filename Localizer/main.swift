@@ -147,41 +147,78 @@ func parseFile(at path: URL) -> [String:String] {
   }
 }
 
-// copy
-// TODO: - adjust regex, return outlet name as String
-func findIBOutlet(by id: String, in storyboard: URL) -> Bool {
-  do {
-    let content = try String(contentsOf: storyboard, encoding: .utf8)
-    let pattern = #"(<outlet).*(destination="\#(id)")"#
-    let regex = try NSRegularExpression(pattern: pattern, options: [])
-    let match = regex.firstMatch(in: content, range: NSRange(location: 0, length: content.utf16.count))
-    
-    return match != nil
-  } catch {
-    return false
-  }
-}
-
 func copyContent(_ content: [String:String], to replacement: [String:String]) -> [String:String] {
   let sanitized = replacement.map({ kv -> (key: String, value: String) in
+    
+    var tempKV = kv
+    var hasTranslation = false
+    
     if let srcValue = content[kv.key] {
-      return (kv.key, srcValue)
+      tempKV.value = srcValue
+      hasTranslation = true
     }
     
-//    let ibID = String(kv.key.split(separator: ".").first!)
-    
-    // TODO: get outlet name from following function
-//    let outlet = findIBOutlet(by: ibID, in: URL())
-    
-    // TODO: if outlet != nil, add name to comment
-    return (kv.key, "\(kv.value) // TODO: check this")
+    return getValueName(by: tempKV, hasTranslation: hasTranslation)
   })
   
   return Dictionary(uniqueKeysWithValues: sanitized)
 }
 
+func getValueName(by keyValue: (key: String, value: String), hasTranslation: Bool) -> (String, String) {
+  let objectId = String(String(keyValue.key.suffix(1)).split(separator: ".").first!)
+  var finalKV = keyValue
+  var comment = ""
+  
+  if let outlet = findIBOutlet(by: objectId) {
+    let priority = hasTranslation ? "(?)" : "(!)"
+    
+    comment = " // TODO: \(priority) translation: \(hasTranslation), outlet: \(outlet)"
+  } else {
+    comment = hasTranslation ? "" : " // TODO: (!) translation: false, outlet: none"
+  }
+  
+  finalKV.value = keyValue.value + comment
+  
+  return finalKV
+}
+
+
+// TODO: - adjust regex, return outlet name as String
+func findIBOutlet(by id: String) -> String? {
+  do {
+    let content = try String(contentsOf: urls.layout, encoding: .utf8)
+    let pattern = #"(<outlet).*(destination="\#(id)").*/>"#
+    let regex = try NSRegularExpression(pattern: pattern, options: [])
+    
+    guard let match = regex.firstMatch(in: content, range: NSRange(location: 0, length: content.utf16.count)) else {
+      return nil
+    }
+    
+    let outletString = (content as NSString).substring(with: match.range)
+    
+    return findProperty(by: outletString)
+  } catch {
+    return nil
+  }
+}
+
+func findProperty(by outlet: String) -> String? {
+  do {
+    let pattern = #"(?<=property=").*?(?=")"#
+    let regex = try NSRegularExpression(pattern: pattern, options: [])
+    
+    guard let match = regex.firstMatch(in: outlet, range: NSRange(location: 0, length: outlet.utf16.count)) else {
+      return nil
+    }
+    
+    return (outlet as NSString).substring(with: match.range)
+  } catch {
+    return nil
+  }
+}
+
 // write .strings file
-func writeContent(_ content: [String:String], to path: URL) {
+func writeContent(_ content: [String:String]) {
   let fileContent = content.map { (key, value) -> String in
     return "\(key) = \(value)"
   }.sorted { lhs, rhs -> Bool in
@@ -192,7 +229,7 @@ func writeContent(_ content: [String:String], to path: URL) {
   }.joined(separator: "\n")
   
   do {
-    try fileContent.write(to: path, atomically: true, encoding: .utf8)
+    try fileContent.write(to: urls.replacement, atomically: true, encoding: .utf8)
   } catch {
     dump(error)
     
@@ -204,4 +241,4 @@ let destDict = parseFile(at: urls.replacement) // japanese
 let srcDict = parseFile(at: urls.src) // german
 let sanitized = copyContent(srcDict, to: destDict)
 
-writeContent(sanitized, to: urls.replacement)
+writeContent(sanitized)
