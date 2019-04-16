@@ -131,7 +131,7 @@ func parseFile(at path: URL) -> [String:String] {
     
     let results = matches.reduce([String:String]()) { dict, match -> [String:String] in
       var dict = dict
-      let result = (content as NSString).substring(with: match.range)
+      let result = (content as NSString).substring(with: match.range).replacingOccurrences(of: "\u{000A}", with: "\\n")
       let kv = result.split(separator: "=").map { String($0).trimmingCharacters(in: .whitespaces) }
       
       dict[kv.first!] = kv.last!
@@ -165,7 +165,7 @@ func copyContent(_ content: [String:String], to replacement: [String:String]) ->
 }
 
 func getValueName(by keyValue: (key: String, value: String), hasTranslation: Bool) -> (String, String) {
-  let objectId = String(String(keyValue.key.suffix(1)).split(separator: ".").first!)
+  let objectId = String(keyValue.key.split(separator: "\"").first!.split(separator: ".").first!)
   var finalKV = keyValue
   var comment = ""
   
@@ -181,7 +181,6 @@ func getValueName(by keyValue: (key: String, value: String), hasTranslation: Boo
   
   return finalKV
 }
-
 
 // TODO: - adjust regex, return outlet name as String
 func findIBOutlet(by id: String) -> String? {
@@ -219,17 +218,44 @@ func findProperty(by outlet: String) -> String? {
 
 // write .strings file
 func writeContent(_ content: [String:String]) {
-  let fileContent = content.map { (key, value) -> String in
+  var fileContent: [String] = []
+  
+  let allContent = content.map { (key, value) -> String in
     return "\(key) = \(value)"
   }.sorted { lhs, rhs -> Bool in
-    let orderLhs = lhs.contains("// TODO: check this") ? 1 : 0
-    let orderRhs = rhs.contains("// TODO: check this") ? 1 : 0
+    let orderLhs = lhs.contains("// TODO: (!)") ? 1 : lhs.contains("// TODO: (?)") ? 2 : 0
+    let orderRhs = rhs.contains("// TODO: (!)") ? 1 : rhs.contains("// TODO: (?)") ? 2 : 0
     
     return orderLhs < orderRhs
-  }.joined(separator: "\n")
+  }
+    
+  var filtered = allContent.filter { !$0.contains("// TODO:")}
+  
+  fileContent.append(contentsOf: filtered)
+  
+  filtered = allContent.filter { $0.contains("// TODO: (?)") }
+  
+  if !filtered.isEmpty {
+    fileContent.append("\n/* Translation and Outlet */")
+    fileContent.append(contentsOf: filtered)
+  }
+  
+  filtered = allContent.filter { $0.contains("// TODO: (!)") && !$0.contains("outlet: none") }
+  
+  if !filtered.isEmpty {
+    fileContent.append("\n/* no Translation but Outlet */")
+    fileContent.append(contentsOf: filtered)
+  }
+  
+  filtered = allContent.filter { $0.contains("// TODO: (!)") && $0.contains("outlet: none") }
+  
+  if !filtered.isEmpty {
+    fileContent.append("\n/* no Translation no Outlet */")
+    fileContent.append(contentsOf: filtered)
+  }
   
   do {
-    try fileContent.write(to: urls.replacement, atomically: true, encoding: .utf8)
+    try fileContent.joined(separator: "\n").write(to: urls.replacement, atomically: true, encoding: .utf8)
   } catch {
     dump(error)
     
