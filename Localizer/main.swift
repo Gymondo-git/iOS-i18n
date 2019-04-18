@@ -5,6 +5,7 @@ import Foundation
 enum Option: String {
   case path = "p"
   case filename = "f"
+  case target = "t"
   case unknown
   
   init(value: String) {
@@ -13,6 +14,8 @@ enum Option: String {
       self = .path
     case "f":
       self = .filename
+    case "t":
+      self = .target
     default:
       self = .unknown
     }
@@ -25,6 +28,7 @@ enum Option: String {
 
 let args = Array(CommandLine.arguments.suffix(from: 1))
 var path: String = FileManager.default.currentDirectoryPath
+var target: String = "Gymondo"
 var filename: String?
 
 func getOption(_ option: String) -> (option: Option, value: String) {
@@ -34,6 +38,11 @@ func getOption(_ option: String) -> (option: Option, value: String) {
 func parseArguments(_ args: [String]) {
   for i in 0 ..< args.count {
     let arg = args[i]
+    
+    guard arg.first == "-" else {
+      continue
+    }
+    
     let option = getOption(String(arg[arg.index(arg.startIndex, offsetBy: 1)]))
     
     switch option.option {
@@ -45,7 +54,7 @@ func parseArguments(_ args: [String]) {
       }
       
       let nextArg = args[i + 1]
-      let value = getOption(String(nextArg[nextArg.index(arg.startIndex, offsetBy: 1)]))
+      let value = getOption(String(nextArg.prefix(2).trimmingCharacters(in: CharacterSet(charactersIn: "-"))))
       
       guard value.option == .unknown else {
         Option.path.printError()
@@ -62,7 +71,7 @@ func parseArguments(_ args: [String]) {
       }
       
       let nextArg = args[i + 1]
-      let value = getOption(String(nextArg[nextArg.index(arg.startIndex, offsetBy: 1)]))
+      let value = getOption(String(nextArg.prefix(2).trimmingCharacters(in: CharacterSet(charactersIn: "-"))))
       
       guard value.option == .unknown else {
         Option.filename.printError()
@@ -71,6 +80,23 @@ func parseArguments(_ args: [String]) {
       }
       
       filename = args[i + 1]
+    case .target:
+      guard args.count >= i + 1 else {
+        Option.target.printError()
+        
+        exit(1)
+      }
+      
+      let nextArg = args[i + 1]
+      let value = getOption(String(nextArg.prefix(2).trimmingCharacters(in: CharacterSet(charactersIn: "-"))))
+      
+      guard value.option == .unknown else {
+        Option.target.printError()
+        
+        exit(1)
+      }
+      
+      target = args[i + 1]
     default:
       continue
     }
@@ -90,28 +116,28 @@ func buildURLs() -> (layout: URL, src: URL, replacement: URL) {
   var srcStringsFileUrl: URL
   var replacementStringsFileUrl: URL
   
-  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/Base.lproj/\(fileName).storyboard") {
-    layoutFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/Base.lproj/\(fileName).storyboard")
-  } else if FileManager.default.fileExists(atPath: "\(path)/Gymondo/Base.lproj/\(fileName).xib") {
-    layoutFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/Base.lproj/\(fileName).xib")
+  if FileManager.default.fileExists(atPath: "\(path)/\(target)/Base.lproj/\(fileName).storyboard") {
+    layoutFileUrl = URL(fileURLWithPath: "\(path)/\(target)/Base.lproj/\(fileName).storyboard")
+  } else if FileManager.default.fileExists(atPath: "\(path)/\(target)/Base.lproj/\(fileName).xib") {
+    layoutFileUrl = URL(fileURLWithPath: "\(path)/\(target)/Base.lproj/\(fileName).xib")
   } else {
-    fputs("\u{001B}[0;31m-no layout file found for [\(fileName)] in [\(path)/Gymondo/Base.lproj]\n", stderr)
+    fputs("\u{001B}[0;31m-no layout file found for [\(fileName)] in [\(path)/\(target)/Base.lproj]\n", stderr)
     
     exit(1)
   }
   
-  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/de.lproj/\(fileName).strings") {
-    srcStringsFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/de.lproj/\(fileName).strings")
+  if FileManager.default.fileExists(atPath: "\(path)/\(target)/de.lproj/\(fileName).strings") {
+    srcStringsFileUrl = URL(fileURLWithPath: "\(path)/\(target)/de.lproj/\(fileName).strings")
   } else {
-    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/Gymondo/de.lproj]\n", stderr)
+    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/\(target)/de.lproj]\n", stderr)
     
     exit(1)
   }
   
-  if FileManager.default.fileExists(atPath: "\(path)/Gymondo/ja.lproj/\(fileName).strings") {
-    replacementStringsFileUrl = URL(fileURLWithPath: "\(path)/Gymondo/ja.lproj/\(fileName).strings")
+  if FileManager.default.fileExists(atPath: "\(path)/\(target)/ja.lproj/\(fileName).strings") {
+    replacementStringsFileUrl = URL(fileURLWithPath: "\(path)/\(target)/ja.lproj/\(fileName).strings")
   } else {
-    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/Gymondo/ja.lproj]\n", stderr)
+    fputs("\u{001B}[0;31m-no localization file found for [\(fileName)] in [\(path)/\(target)/ja.lproj]\n", stderr)
     
     exit(1)
   }

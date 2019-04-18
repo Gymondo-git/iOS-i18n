@@ -67,7 +67,7 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "/Users/philipp.duemlein/gymondo-app-ios"
+            argument = "/Users/ronny.gerasch/Development/Gymondo/iOS"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
@@ -75,7 +75,15 @@
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
-            argument = "FitnessProfile"
+            argument = "TrainingCollectionItemCell"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-t"
+            isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "GymondoTV"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
