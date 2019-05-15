@@ -9,9 +9,11 @@ function sanitize(unsafe) {
         switch (c) {
             case '<': return '&lt;';
             case '>': return '&gt;';
+            case '&amp;': return '&amp;';
             case '&': return '&amp;';
-            case '\'': return '&apos;';
+            case '\'': return '\'';
             case '"': return '&quot;';
+            case '/': return '/';
         }
     })
 }
