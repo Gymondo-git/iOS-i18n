@@ -71,7 +71,7 @@ const translations = []
 let finalTranslations = []
 
 const rl = readline.createInterface({
-    input: fs.createReadStream('./translations.txt'),
+    input: fs.createReadStream('./Localizable.strings'),
     crlfDelay: Infinity
 })
 

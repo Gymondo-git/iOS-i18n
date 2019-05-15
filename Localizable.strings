@@ -1,0 +1,1674 @@
+// "K1S-Mg-ee2.text"
+"Whats_new_title" = "Neu für dich";
+// "whats_new_4.0.0_slide_1_title"
+"Whats_new_4.0.0_slide_1_title" = "";
+// "whats_new_4.0.0_slide_1_text"
+"Whats_new_4.0.0_slide_1_text" = "Gymondo erstrahlt jetzt im neuen Design!\nDynamisch, sportlich, stylisch. Jetzt vom\nneuen Look begeistern lassen!";
+// "whats_new_4.0.0_slide_2_title"
+"Whats_new_4.0.0_slide_2_title" = "Starte fit ins neue Jahr";
+// "whats_new_4.0.0_slide_2_text"
+"Whats_new_4.0.0_slide_2_text" = "";
+// "nutrition_settings_goal_dialog_start"
+"Start" = "Starten";
+// "open", "workouts_first_time_download_notification_action"
+"Open" = "Öffnen";
+// "swP-Rc-K2T.normalTitle", "DWQ-VI-Axf.normalTitle", "jBI-Un-8sH.normalTitle", "Yyd-Ix-jHg.normalTitle", "beJ-Ao-aFm.normalTitle", "GHq-Jr-Lfe.normalTitle", "Was-Hi-COs.normalTitle", "u1W-65-EJc.normalTitle", "Yvc-0j-FHK.normalTitle", "DiP-hP-OeT.normalTitle", "za6-7i-uoh.normalTitle", "c2d-kN-CWo.normalTitle", "program_config_continue_btn"
+"CONTINUE" = "WEITER";
+// "ObR-bm-u6U.normalTitle", "H8T-E0-IAW.normalTitle", "Rzz-6N-2DN.normalTitle", "bba-2l-hVs.normalTitle", "GGq-rx-fpC.normalTitle", "Asa-tC-WGL.normalTitle", "UKy-T6-Lci.normalTitle"
+"SKIP" = "ÜBERSPRINGEN";
+// "fP0-Pq-vuM.normalTitle", "1t2-ny-xLA.normalTitle", "Vvo-f2-DSv.normalTitle", "nYV-u9-vb4.title", "q8U-NX-L1h.normalTitle", "cYZ-sB-vDb.normalTitle"
+"PREMIUM_SKIP" = "WEITER OHNE PREMIUM";
+// "K0C-Sv-OaH.normalTitle", "3e1-Ha-2D8.normalTitle", "SPa-ev-jfE.normalTitle", "cancel", "error_payments_disabled_alert_cancel", "nutrition_settings_goal_dialog_cancel"
+"Cancel" = "Abbrechen";
+// "6MZ-pm-czS.normalTitle", "KXx-7y-l9z.normalTitle", "hXd-Kq-4id.normalTitle", "9o4-NT-Kij.text", "KBB-Md-UiV.title", "UZL-cU-SzY.normalTitle", "legal_title_terms"
+"TAC" = "AGB";
+// "workout_sl"
+"Workout" = "Workout";
+// "bAY-p0-mPb.title", "I6M-WZ-HpQ.text", "Ffy-gu-ZDj.title", "Lnn-6i-6fa.title", "YjD-up-KPt.text", "m0U-Cu-Qir.text", "workout_pl", "training_statistics_workouts"
+"Workouts" = "Workouts";
+// "program_section_title_workout"
+"Workout_count_fmt" = "%d Workout";
+// "program_section_title_workouts"
+"Workouts_count_fmt" = "%d Workouts";
+// "program_mygoals_tv_workouts"
+"Workouts_sum_fmt" = "Insgesamt %d Workouts";
+// "workout_video_favorite_message"
+"WORKOUT_FAVORITE" = "WORKOUT FAVORISIEREN";
+// "workout_video_favorited_message"
+"WORKOUT_FAVORITED" = "WORKOUT FAVORISIERT";
+// "conversion_cta_missed"
+"WORKOUT_SHOW" = "ZUM WORKOUT";
+// "fva-NG-Lxr.normalTitle", "qjN-mV-58k.normalTitle", "HD8-Ve-7l8.normalTitle", "Xi3-zJ-edx.normalTitle", "fyU-ht-ck2.normalTitle", "4Tc-jx-QD0.normalTitle"
+"READ_MORE" = "MEHR LESEN";
+// "fRq-Yi-Bzw.text", "fs9-WJ-fkN.text", "QRK-tx-Uu6.title", "rfl-kH-juf.placeholder", "GRO-zJ-DL6.title", "t1r-Cw-b7K.text", "fitness_profile_vital_weight"
+"Weight" = "Gewicht";
+// "vKD-Z9-bea.normalTitle", "yut-nA-FBz.normalTitle", "mnc-6t-B5q.normalTitle", "program_start_btn", "program_config_create_btn", "conversion_cta_start"
+"START_NOW" = "JETZT STARTEN";
+// "dashboard_nutrition_subtitle"
+"Start_Now" = "Jetzt Starten";
+// "erD-Qd-Pm9.text", "TMh-wJ-tGT.title", "1QQ-Tf-Bun.text", "Bwj-f1-fY7.text", "zlF-C5-F6l.title", "error_payments_disabled_alert_ok"
+"Settings" = "Einstellungen";
+// "workouts_title_favorites", "recipes_title_favorites"
+"Favorites" = "Favoriten";
+// "workouts_title_popular", "recipes_title_popular"
+"Popular" = "Beliebt";
+// "ebc-vd-DZ8.normalTitle", "0td-38-ql7.normalTitle", "ko7-0b-ARW.normalTitle", "qNr-T1-34S.normalTitle", "uYk-6y-a6E.normalTitle"
+"LOGIN" = "EINLOGGEN";
+// "0A9-SG-iS8.title"
+"Login" = "Einloggen";
+// "Ixl-Mj-gww.placeholder", "OUb-u4-WW2.placeholder", "PM9-7O-4kF.placeholder", "aKN-pF-Qa8.placeholder", "L24-Mg-3xT.placeholder"
+"E_mail" = "E-Mail";
+// "rbH-kb-N3g.normalTitle", "ofs-NC-fKu.normalTitle"
+"SEND_OFF" = "ABSENDEN";
+// "eyd-oR-i56.normalTitle", "Tae-Mr-XUx.normalTitle", "4vH-TI-qH5.normalTitle", "exu-05-3pZ.normalTitle"
+"END" = "BEENDEN";
+// "nutrition_settings_end_plan_end", "training_action_end"
+"End" = "Beenden";
+// "Uej-Ub-8de.normalTitle"
+"PROGRAMS" = "PROGRAMME";
+// "lMg-9K-GBd.title", "z3E-eR-QBO.text", "dMI-7W-wP5.title", "2Rv-8z-0e2.text", "aTZ-LK-0F8.text", "training_statistics_programs"
+"Programs" = "Programme";
+// "dashboard_twoprograms_subtitle"
+"Programs_show" = "Programme ansehen";
+// "training_completed_title", "training_info_completed"
+"Program_completed" = "Programm abgeschlossen";
+// "nQB-mT-NW9.normalTitle", "conversion_cta_end"
+"PROGRAM_UNLOCK" = "PROGRAMM FREISCHALTEN";
+// "MxJ-ED-P3C.normalTitle", "aiO-JU-Ljj.normalTitle", "qks-Bm-SIH.normalTitle", "program_resume_btn"
+"PROGRAM_RESUME" = "PROGRAMM FORTSETZEN";
+// "0ia-Dl-mdL.normalTitle", "Xrf-cH-cu1.normalTitle", "XyN-nZ-XFy.normalTitle"
+"PROGRAM_START" = "PROGRAMM STARTEN";
+// "xmj-Zi-tYP.text", "t1f-nb-Ur4.text", "training_info_paused"
+"Program_paused" = "Dein Programm ist pausiert";
+// "2Cn-mL-bbU.normalTitle", "program_confirmation_start"
+"PROGRAM_START_ADDITIONAL" = "ZUSÄTZLICH STARTEN";
+// "438-x7-BWm.text", "two_programs_allowed_title"
+"Program_start_additional_title" = "Bist du bereit für ein weiteres Programm?";
+// "rYS-D8-IBp.text", "two_programs_allowed_copy"
+"Program_start_additional_description" = "Du kannst dieses Programm zusätzlich zu deinem laufenden Programm starten. Der Fortschritt des laufenden Programms bleibt bestehen. Oder du ersetzt das laufende Programm durch dieses. Der Fortschritt des laufenden Programms geht dadurch verloren.";
+// "recipe"
+"Recipe" = "Rezept";
+// "3EM-Gq-cUx.title", "QMO-0A-pR6.text", "VZq-wY-ddx.text", "0xB-ry-cTN.title", "recipes"
+"Recipes" = "Rezepte";
+// "sc1-XR-aOM.text"
+"Recipes_similar" = "Ähnliche Rezepte";
+// "shopping_list_recipes_bought_header"
+"Recipes_bought" = "Gekaufte Rezepte";
+// "QPu-Ek-8qM.text"
+"Recipes_healthy" = "Gesunde Rezepte";
+// "home_recipes_action_more"
+"Recipes_more" = "Mehr Rezepte";
+// "j52-xa-204.text"
+"Recipes_tasty" = "Mehr leckere Rezepte";
+// "Ghv-hL-3fH.normalTitle", "2Kh-Xc-OME.normalTitle", "nutrition_points_card_start_cta"
+"NUTRITION_START" = "ERNÄHRUNGSPLAN STARTEN";
+// "nutrition_points_card_statistics"
+"History_show" = "Verlauf ansehen";
+// "nutrition_points_card_cta"
+"Points_input" = "Punkte eintragen";
+// "nutrition_points_card_average"
+"Points_average_fmt" = "%d Punkte im Durchschnitt\nder letzten 7 Tage";
+// "BuP-G8-Hqs.title", "BOM-7V-es7.title", "fitness_profile_cell_measurement_subtitle"
+"Measurements" = "Maße";
+// "1zv-bP-QVH.headerTitle", "KMR-Fp-laL.text", "uL8-IV-f5I.title", "settings_legal"
+"Legal" = "Rechtliches";
+// "KkQ-Ay-fY0.title", "OnT-jM-sdn.text", "MhV-xW-zNr.text", "settings_change_pass"
+"Password_change" = "Passwort ändern";
+// "done"
+"PASSWORD_CHANGE" = "PASSWORT ÄNDERN";
+// "SWp-PE-rGj.normalTitle", "lAi-kV-M1n.normalTitle", "fitness_check_btn_start"
+"LETS_GO" = "LOS GEHT'S";
+// home_planday_title
+"Lets_go" = "Los geht's";
+// "Tao-f9-ito.normalTitle", "2Sc-Hl-kT1.normalTitle", "3mK-vr-pbC.normalTitle"
+"MONDAY_abbr" = "MO";
+// "IMk-ek-A1L.normalTitle", "ggm-Xz-pBr.normalTitle", "FJa-rg-K3M.normalTitle"
+"TUESDAY_abbr" = "DI";
+// "Hic-nE-ja7.normalTitle", "XYH-P6-N8p.normalTitle", "4bx-JE-Kbi.normalTitle"
+"WEDNESDAY_abbr" = "MI";
+// "Xi7-9e-pSA.normalTitle", "1sw-h8-NfR.normalTitle", "IYr-pe-OLe.normalTitle"
+"THURSDAY_abbr" = "DO";
+// "8vH-ru-a9z.normalTitle", "ee8-Zs-TUm.normalTitle", "2t5-vA-Njv.normalTitle"
+"FRIDAY_abbr" = "FR";
+// "uL2-hi-KdI.normalTitle", "9cO-6a-HR5.normalTitle", "XPT-yA-XOk.normalTitle"
+"SATURDAY_abbr" = "SA";
+// "yV8-vd-fEt.normalTitle", "hN2-l3-cB9.normalTitle", "u7L-p1-our.normalTitle"
+"SUNDAY_abbr" = "SO";
+// "i0U-5Z-G2E.placeholder", "qSU-rX-lXg.placeholder", "cAY-nu-Fuj.placeholder"
+"Password" = "Passwort";
+// "kVc-jk-sDt.normalTitle", "nQp-ek-37C.normalTitle", "A5U-tI-bdi.normalTitle"
+"Privacy_statement" = "Datenschutzerklärung";
+// "xgI-s9-N2q.normalTitle", "yZr-aj-3Pa.normalTitle", "47u-5U-d5H.normalTitle"
+"LOSE_WEIGHT" = "ABNEHMEN";
+// "WBF-nO-wQ9.normalTitle", "eP5-rU-Ho4.normalTitle", "VV1-9k-VJF.normalTitle"
+"PREVIEW" = "VORSCHAU";
+// "ZBa-k7-G5u.title"
+"Preview" = "Vorschau";
+// "Xet-Pm-GoZ.normalTitle", "Cb0-IB-QbV.normalTitle", "NFK-JR-tMJ.normalTitle"
+"FILTER_DELETE" = "FILTER LÖSCHEN";
+// "8iS-hc-BMm.text", "9G2-Qf-i1k.title"
+"Shopping_list" = "Einkaufsliste";
+// "fYr-Eh-hgX.normalTitle", "5nN-sV-0fc.normalTitle", "go_premium_btn"
+"GO_PREMIUM" = "PREMIUM ANSEHEN";
+// "ZpO-d6-pfz.normalTitle", "nutrition_settings_goal_dialog_header"
+"Goal_change" = "Ziel ändern";
+// "9AT-eO-7ZH.text", "dyb-V8-sLi.text", "no_network_alert_message"
+"No_network" = "Im Moment gibt es leider keine Netzwerkverbindung.\nBitte stell sicher, dass du mit dem Internet verbunden bist.";
+// "Glj-aZ-RF9.text", "qCI-ML-CcK.text", "no_network_alert_title"
+"No_network_short" = "Keine Netzwerkverbindung.";
+// "fq1-rz-xLY.text", "CR4-aX-isa.title", "legal_title_privacy"
+"Privacy" = "Datenschutz";
+// "ChM-m9-GkA.normalTitle"
+"PRIVACY" = "DATENSCHUTZ";
+// "YLP-ne-9SM.text", "i3x-xu-fe0.title", "legal_title_imprint"
+"Imprint" = "Impressum";
+// "avB-pY-ujJ.title", "9FZ-09-qer.text", "RaS-UY-vSM.title"
+"Fitness_profile" = "Fitnessprofil";
+// "FcV-0Y-sLa.normalTitle"
+"FITNESS_PROFILE" = "FITNESSPROFIL";
+// "Yg0-7W-OJh.text", "97U-52-EsN.text", "6z6-xj-bFa.text"
+"Circumference_leg" = "Beinumfang";
+// "Ihv-Nr-wZj.text", "fjh-tF-seZ.text", "Pno-Ob-9Ri.text"
+"Circumference_abdominal" = "Bauchumfang";
+// "N41-JW-xCT.text", "5rp-pA-cPL.text", "nIo-N1-RAU.text"
+"Circumference_hips" = "Hüftumfang";
+// "Dqf-sr-4uw.text", "RdZ-xY-qf9.text", "ZEM-tx-gMF.text"
+"WHY" = "WARUM?";
+// "KRz-CF-kkw.text", "ct7-V5-RQU.text", "NVh-qv-0bO.text"
+"Not_allowed" = "Nicht erlaubt";
+// "N79-mP-kCJ.text", "GkK-Oa-Fhy.text", "Fl4-XP-mjw.text"
+"Better" = "Besser";
+// "qXU-aQ-SBo.text", "Eae-X8-WQx.text", "Smm-ws-5FN.text"
+"GOOD_TO_KNOW" = "GUT ZU WISSEN";
+// "ngb-dx-y9T.text", "tm3-dG-kRA.title", "training_title"
+"My_training" = "Mein Training";
+// "7aF-Hp-q56.title", "fitness_profile_settings_title"
+"Profile_edit" = "Profil bearbeiten";
+// "FY5-6H-piC.text", "account_state_paused", "paused"
+"Paused" = "Pausiert";
+// "program_status_paused"
+"PAUSED" = "PAUSIERT";
+// "data_privacy_activate"
+"ACTIVATE" = "AKTIVIEREN";
+// "szw-wo-l7K.normalTitle", "data_privacy_deactivate"
+"DEACTIVATE" = "DEAKTIVIEREN";
+// "alert_discard_privacy"
+"Deactivate" = "Deaktivieren";
+// "FjL-dL-oZL.normalTitle", "ChT-jI-Fmc.normalTitle"
+"RECIPES_ADD" = "REZEPTE HINZUFÜGEN";
+// "sUo-Vb-ApQ.normalTitle", "hF1-ud-vmY.normalTitle"
+"VITALS_INPUT" = "ERFOLGE EINTRAGEN";
+// "Lcr-cG-aTd.normalTitle", "a6w-bN-9e3.normalTitle"
+"PLAYLIST_CHOOSE" = "PLAYLIST AUSWÄHLEN";
+// "uwj-gW-Om3.normalTitle"
+"Playlist_choose" = "Playlist auswählen";
+// "Bdt-Qo-qfJ.normalTitle", "0Hn-4X-6bi.normalTitle"
+"TOO_EASY" = "ZU LEICHT";
+// "ANx-rF-A6J.normalTitle", "s2Q-v6-rnT.normalTitle"
+"JUST_RIGHT" = "GENAU RICHTIG";
+// "lzl-VI-cpr.normalTitle", "Kkt-ZM-w4J.normalTitle"
+"TOO_HARD" = "ZU SCHWER";
+// "lpJ-hP-NEt.normalTitle", "J8C-RA-p7O.normalTitle"
+"SIGNUP" = "ANMELDEN";
+// "T0l-mH-e4t.normalTitle"
+"SIGNUP_FB" = "MIT FACEBOOK ANMELDEN";
+// "8Dt-kl-les.normalTitle", "cAB-ae-j8Z.normalTitle"
+"Signup_fb" = "Mit Facebook anmelden";
+// "ukE-NJ-3Oo.normalTitle"
+"LOGIN_FB" = "MIT FACEBOOK EINLOGGEN";
+// "kko-Ps-AKt.normalTitle", "cVU-hh-Ccl.normalTitle"
+"Signup_g" = "Mit Google anmelden";
+// "RMW-mA-HAY.normalTitle", "6pn-H0-tzK.normalTitle"
+"FLEXIBILITY" = "BEWEGLICHKEIT";
+// "Iz5-AM-Dh7.text", "program_legend_mobility"
+"Flexibility" = "Beweglichkeit";
+// "oHf-tC-GQx.normalTitle", "ZFY-P8-Soj.normalTitle"
+"STRENGTH" = "MUSKELAUFBAU";
+// "eMB-e1-jc0.normalTitle", "1Jc-h2-YAy.normalTitle"
+"TIGHTEN" = "STRAFFEN";
+// "qO6-EZ-9Ez.normalTitle", "6nD-Ri-Mij.normalTitle"
+"PAUSE_END" = "PAUSE BEENDEN";
+// "kvF-qK-TkL.normalTitle", "Km5-5T-F2L.normalTitle"
+"PAUSE" = "PAUSIEREN";
+// "training_action_pause"
+"Pause" = "Pausieren";
+// "CtK-xq-DKw.normalTitle", "X4b-Ig-R0T.normalTitle"
+"SHOW_ALL" = "ALLE ANZEIGEN";
+// "home_planday_action_more", "home_programs_action_more", "home_plan_upcoming_action_more", "home_plan_offline_action_more"
+"Show_all" = "Alle anzeigen";
+// "fjQ-0d-Ovw.normalTitle"
+"EDIT" = "BEARBEITEN";
+// "BKb-wl-Tpb.normalTitle", "training_action_edit"
+"Edit" = "Bearbeiten";
+// "TXu-JN-LpM.text", "vital_card_unlock"
+"Unlock" = "Freischalten";
+// "Dbt-AO-0ea.text", "BgQ-xD-rHr.text", "and"
+"and" = "und";
+// "vNR-W5-LSI.text", "pAp-Ji-2hZ.text", "Lch-7q-cL7.text", "t4B-Ox-f0U.text"
+"or" = "oder";
+// "sjZ-WZ-6SL.normalTitle", "lvQ-mS-2ku.normalTitle"
+"PASSWORD_FORGOT" = "PASSWORT VERGESSEN";
+// "BbA-uH-SHN.title", "dzd-XK-nRo.text"
+"Password_forgot" = "Passwort vergessen";
+// "Wg9-OG-IfO.text", "Wg9-OG-IfO.text"
+"NEW" = "NEU";
+// "workouts_title_new", "recipes_title_new"
+"New" = "Neu";
+// "day_sl"
+"Day" = "Tag";
+// "day_pl"
+"Days" = "Tage";
+// "UIb-cY-aAC.text", "challenge_sl"
+"Challenge" = "Challenge";
+// "challenge_pl"
+"Challenges" = "Challenges";
+// "inb-xu-5gr.text", "legal_title_faq"
+"FAQ" = "FAQ";
+// "mli-Ck-E3P.text", "workout_workouts_list_title"
+"Workouts_similar" = "Ähnliche Workouts";
+// "t2Z-m9-x0S.text", "home_plan_upcoming_title"
+"Workouts_upcoming" = "Nächste Workouts";
+// "timeline_header_workouts_past_tv"
+"Workouts_past" = "Vorherige Workouts";
+// "home_popular_workouts_title", "program_section_title_popular"
+"Workouts_popular" = "Beliebte Workouts";
+// "workouts_title_recommended"
+"Workouts_recommended" = "Empfohlene Workouts";
+// "home_popular_workouts_action_more"
+"Workouts_more" = "Mehr Workouts";
+// "home_workouts_list_title"
+"Workouts_most_popular" = "Beliebteste Workouts";
+// "timeline_header_workouts_all_tv"
+"Workouts_all" = "Alle Workouts";
+// "home_plan_offline_subtitle"
+"Workouts_available" = "Verfügbare Workouts";
+// "BsI-Jv-9FK.normalTitle", "ijJ-WE-TIc.normalTitle"
+"PROFILE_CREATE" = "PROFIL ERSTELLEN";
+// "kwh-ko-IzH.text"
+"Profile_create" = "Profil erstellen";
+// "cDN-l1-h3u.normalTitle", "qNY-Q8-WXs.normalTitle"
+"PROFILE_COMPLETE" = "PROFIL FERTIGSTELLEN";
+// "98L-Hj-SC6.text"
+"Profile_complete" = "Profil fertigstellen";
+// "fitness_profile_settings_save"
+"PROFILE_SAVE" = "PROFIL SPEICHERN";
+// "servings_stepper_title"
+"Serving" = "Portion";
+// "servings"
+"Serving_count_fmt" = "%d Portion";
+// "servings_stepper_plural_title"
+"Servings" = "Portionen";
+// "servings_plural"
+"Servings_count_fmt" = "%d Portionen";
+// "nutrition_intro_title_1"
+"Nutrition_intro_title_1" = "Zwei Ziele,\nZwei Konzepte";
+// "7Mg-dc-BGJ.text", "nutrition_intro_title_2"
+"Nutrition_intro_title_2" = "Die Dreisten Drei";
+// "XZN-oF-FRe.text", "nutrition_intro_title_3"
+"Nutrition_intro_title_3" = "Die Tellerregeln";
+// "nutrition_intro_title_4"
+"Nutrition_intro_title_4" = "Deinen Nutrition\nScore";
+// "nutrition_intro_title_5"
+"Nutrition_intro_title_5" = "Jetzt bist du dran!";
+// "qhF-Pp-vjp.text", "EAG-fq-D9O.text", "nutrition_intro_subtitle_0"
+"Nutrition_intro_subtitle_0" = "mit dem Gymondo Ernährungsplan";
+// "3tp-BW-J5f.text", "Htw-2a-S8U.text", "nutrition_intro_subtitle_1"
+"Nutrition_intro_subtitle_1" = "Wähle dein Ziel";
+// "izM-ki-w6Z.text", "nutrition_intro_subtitle_2"
+"Nutrition_intro_subtitle_2" = "Verzichte auf";
+// "n7x-ca-aOJ.text", "nutrition_intro_subtitle_3"
+"Nutrition_intro_subtitle_3" = "Befolge";
+// "9H6-vk-Kq1.text", "nutrition_intro_subtitle_4"
+"Nutrition_intro_subtitle_4" = "Verfolge und verbessere";
+// "nutrition_intro_subtitle_5"
+"Nutrition_intro_subtitle_5" = "Gesund essen ist einfach";
+// "program_mygoals_level_1"
+"Mygoals_wizard_level_1" = "Ich bin Anfänger und habe schon lange keinen Sport mehr gemacht.";
+// "program_mygoals_level_2"
+"Mygoals_wizard_level_2" = "Ich mache ab und zu Sport, aber da ist noch Luft nach oben.";
+// "program_mygoals_level_3"
+"Mygoals_wizard_level_3" = "Ich bin topfit und suche eine echte Herausforderung!";
+// "program_mygoals_level_4"
+"Mygoals_wizard_level_4" = "Ich bin topfit und suche eine echte Herausforderung!";
+// "month_january"
+"January_abbr" = "Jan";
+// "month_february"
+"February_abbr" = "Feb";
+// "month_march"
+"March_abbr" = "Mär";
+// "month_april"
+"April_abbr" = "Apr";
+// "month_may"
+"May_abbr" = "Mai";
+// "month_june"
+"June_abbr" = "Jun";
+// "month_july"
+"Jule_abbr" = "Jul";
+// "month_august"
+"August_abbr" = "Aug";
+// "month_september"
+"September_abbr" = "Sep";
+// "month_october"
+"October_abbr" = "Okt";
+// "month_november"
+"November_abbr" = "Nov";
+// "month_december"
+"December_abbr" = "Dez";
+// "dashboard_settings_workout_days"
+"Training_days_plan_fmt" = "Wähle %ld bis %ld Tage pro Woche für dein Training.";
+// "program_config_workout_days"
+"Training_days_program" = "Wähle %ld bis %ld Tage pro Woche für dein Training. Du kannst deine Trainingstage jederzeit ändern.";
+// "subscription_short_info"
+"Package_duration_fmt" = "%@ Paket";
+// "Oj6-fl-shZ.normalTitle"
+"DELETE" = "LÖSCHEN";
+// "change_program_alert_action_delete"
+"Delete" = "Löschen";
+// "alert_download_delete"
+"Workout_delete" = "Workout löschen";
+// "duration_week"
+"Week" = "Woche";
+// "duration_weeks"
+"Weeks" = "Wochen";
+// "zf4-he-Yqb.normalTitle"
+"LEGS" = "BEINE";
+// "fitness_profile_vital_thigh"
+"Legs" = "Beine";
+// "J6M-NF-cSP.text", "program_status_active"
+"ACTIVE" = "AKTIV";
+// "Doy-MI-jvJ.normalTitle", "aS5-if-mrL.normalTitle"
+"OK" = "OK";
+// "Vxw-Rz-yWY.normalTitle"
+"Ok" = "Ok";
+// "Mj3-nR-WPp.normalTitle"
+"REPEAT" = "WIEDERHOLEN";
+// "training_completed_repeat_btn"
+"Repeat" = "Wiederholen";
+// "rPn-14-rww.text"
+"TODAY" = "HEUTE";
+// "today"
+"Today" = "Heute";
+// "tomorrow"
+"Tomorrow" = "Morgen";
+// "yesterday"
+"Yesterday" = "Gestern";
+// "program_confirmation_replace"
+"REPLACE" = "ERSETZEN";
+// "training_workout_replace"
+"Replace" = "Ersetzen";
+// "success_story_1_success"
+"Success_1_success" = "Cindy hat 20 Kilo abgenommen";
+// "success_story_1_story"
+"Success_1_story" = "20 Minuten am Tag halfen zu meiner Topform!";
+// "success_story_2_success"
+"Success_2_success" = "Jana hat 18 Kilo abgenommen";
+// "success_story_2_story"
+"Success_2_story" = "Nur mit Sport und einer dauerhaften Ernährungsumstellung klappt es!";
+// "success_story_3_success"
+"Success_3_success" = "Rosa hat 20 Kilo abgenommen";
+// "success_story_3_story"
+"Success_3_story" = "Ich war sofort von dem Ernährungskonzept & den Workouts begeistert!";
+// "success_story_4_success"
+"Success_4_success" = "Nicolas hat 13 Kilo abgenommen";
+// "success_story_4_story"
+"Success_4_story" = "Mit Gymondo Burn powere ich mich so richtig aus und trainiere meinen ganzen Körper!";
+// "success_story_5_success"
+"Success_5_success" = "Jessica hat 7 Kilo abgenommen";
+// "success_story_5_story"
+"Success_5_story" = "Die Workouts sind echt klasse und machen mir verdammt viel Spaß!";
+// "program_mygoals_duration_1_title"
+"Mygoals_length_1_title" = "Alle Längen";
+// "program_mygoals_duration_1_motivation"
+"Mygoals_length_1_description" = "Ich mag kurze und lange Workouts.";
+// "program_mygoals_duration_2_title"
+"Mygoals_length_2_title" = "Kurz";
+// "program_mygoals_duration_2_motivation"
+"Mygoals_length_2_description" = "Ich mag Workouts, die kürzer als 30 Minuten sind.";
+// "program_mygoals_duration_3_title"
+"Mygoals_length_3_title" = "Lang";
+// "program_mygoals_duration_3_motivation"
+"Mygoals_length_3_description" = "Ich mag Workouts, die länger als 20 Minuten sind.";
+// "intro_page_1_title"
+"Intro_1_title" = "Individuelles\nTraining";
+// "intro_page_1_copy"
+"Intro_1_description" = "Wir erstellen deinen perfekten Trainingsplan";
+// "intro_page_2_title"
+"Intro_2_title" = "Trainiere für dein Ziel";
+// "intro_page_2_copy"
+"Intro_2_description" = "Immer und überall trainieren - ohne Geräte";
+// "oLF-Pu-kHS.text", "intro_page_3_title"
+"Intro_3_title" = "Erreiche deine Traumfigur";
+// "intro_page_3_copy"
+"Intro_3_description" = "Spaß am Training für schnelle Ergebnisse";
+// "nutrition_settings_change_button_title_1"
+"NUTRITION_GOAL_SWITCH_1" = "ZUM ZIEL FIT & GESUND WECHSELN";
+// "nutrition_settings_change_button_title_2"
+"NUTRITION_GOAL_SWITCH_2" = "ZUM ZIEL ABNEHMEN WECHSELN";
+// "nutrition_settings_goal_dialog_1"
+"Nutrition_goal_switch_1_description" = "Du wechselst deinen Ernährungsplan zum Ziel Abnehmen. Damit unterstützt du schnelles und nachhaltiges Abnehmen. Deine bisherigen Nutrition Punkte bleiben bestehen.";
+// "nutrition_settings_goal_dialog_2"
+"Nutrition_goal_switch_2_description" = "Du wechselst deinen Ernährungsplan zum Ziel Fit & Gesund. Damit unterstützt du einen straffen und gesunden Körper. Deine bisherigen Nutrition Punkte bleiben bestehen.";
+// "JYO-ZF-x5W.normalTitle"
+"HIP" = "HÜFTE";
+// "fitness_profile_vital_hip"
+"Hip" = "Hüfte";
+// "recipe_nutrition_fact_fat", "recipe_fist_fat"
+"Fat" = "Fett";
+// "recipe_nutrition_fact_protein", "recipe_fist_protein"
+"Proteins" = "Proteine";
+// "eh8-7Y-ZmV.normalTitle"
+"BELLY" = "BAUCH";
+// "fitness_profile_vital_waist"
+"Belly" = "Bauch";
+// "workouts_no_content_favorite_title", "recipes_no_content_favorite_title"
+"Favorites_no_content" = "Du hast noch keine Favoriten ausgewählt.";
+// "conversion_text_missed", "conversion_text_missed_tv"
+"Conversion_context_missed" = "Starte jetzt dein erstes Workout. Es wirkt: 80% unserer Mitglieder sind sofort begeistert und bleiben dabei. Erlebe dieses Gefühl!";
+// "conversion_text_end", "conversion_text_end_tv"
+"Conversion_context_completed" = "Spürst du deinen Körper, die Erschöpfung, das Glück? Bleibe jetzt dabei und erreiche deine Ziele!";
+// "dashboard_settings_workout_days_recommended", "program_config_recommended_workouts"
+"Program_optimal_workouts_count_fmt" = "Für dieses Programm empfehlen wir %ld Workouts pro Woche.";
+// "training_statistics_calories", "fitness_profile_cell_calories_title"
+"Calories" = "Kalorien";
+// "calories_unit"
+"calories_abbr" = "kcal";
+// "fitness_profile_age", "settings_user_age"
+"Age_count_fmt" = "%ld Jahre";
+// "AT5-8d-XaE.text", "measurement_unit_kg"
+"kilograms_abbr" = "kg";
+// "measurement_unit_cm"
+"centimeters_abbr" = "cm";
+// "close"
+"CLOSE" = "CLOSE";
+// "xbw-hr-XNn.text", "program_continuous_duration", "program_duration_continuos"
+"Program_length_continuous" = "So lange du willst";
+// "accept"
+"Accept" = "Akzeptieren";
+// "ZM9-sI-bHX.placeholder", "aZy-O4-hJ7.placeholder"
+"E_mail_address" = "E-Mail-Addresse";
+// "aBk-Sa-DFe.text", "dashboard_fitnesscheck_title"
+"Fitnesscheck_start" = "Starte deinen\nFitnesscheck";
+// "JDR-wa-x4V.text", "program_legend_coordination"
+"Coordination" = "Koordination";
+// "n0c-0y-4e3.text", "alert_title_privacy_vitals"
+"Vitals_deactivate" = "Vitaldatenspeicherung deaktivieren";
+// "data_privacy_title_deactivated"
+"Vitals_deactivated" = "Du hast deine Vitaldaten deaktiviert!";
+// "kHR-e0-M6U.text", "settings_save_vital_data"
+"Vitals_save" = "Vitaldaten speichern";
+// "3Wd-M2-8ZP.text", "program_legend_strength"
+"Strength_training" = "Krafttraining";
+// "an2-K6-SlP.text", "program_legend_cardio"
+"Cardio" = "Cardio";
+// "gvW-uV-aPS.text", "home_programs_title"
+"Our_recommendation" = "Unsere Empfehlung";
+// "r40-vT-qkV.text", "ttC-GK-ATh.title"
+"Downloads" = "Downloads";
+// "uKa-Ut-PDR.title", "rs1-Vz-2I6.text"
+"Data_your" = "Deine Daten";
+// "Uut-Lv-mBX.text", "d1e-u0-8Gz.title"
+"Service" = "Service";
+// "Epn-Zj-ehJ.text", "zIt-c7-bOX.title"
+"Language" = "Sprache";
+// "C3q-NQ-OEX.text", "settings_logout"
+"Logout" = "Abmelden";
+// "Jra-T5-Pze.text", "GvT-8k-r2N.text"
+"Recipes_serving" = "(pro Portion)";
+// "Ndg-HJ-Yf0.text", "7wI-ne-JLk.text"
+"Progress" = "Dein Fortschritt";
+// "0Sw-Fu-2vq.text", "hJe-IJ-KfH.text"
+"Subscription_description" = "Dein iTunes Konto wird mit dem Gesamtbetrag für die Laufzeit des Abonnements belastet. Das Abonnement verlängert sich automatisch um die gewählte Laufzeit, wenn du nicht mindestens 24 Stunden vor Ablauf der Laufzeit dein Abonnement kündigst. Du kannst das Abonnement jederzeit kündigen und die automatische Verlängerung in den Kontoeinstellungen deiner Apple ID deaktivieren. Nicht genutzte Zeiträume einer kostenlosen Testphase verfallen bei Abschluss eines Abonnements ohne Testphase.";
+// "xki-8k-dgT.text", "EpG-4a-pgs.text"
+"Nutrition_plan_description" = "Der Gymondo Ernährungsplan hilft dir, deine Ziele schneller zu erreichen. Isst du gesund nach dem Ernährungsplan, sammelst du jeden Tag Punkte. Mehr Punkte bedeuten schnelleren Fortschritt durch gesündere Ernährung. Ganz einfach, ganz flexibel.";
+// "rnl-pm-afP.text", "Q0Q-qH-u2E.text"
+"Nutrition_plan_your" = "Dein Ernährungsplan";
+// "LVe-XK-bPC.text", "top-Uo-Wb8.text"
+"Nutrition_plan" = "Ernährungsplan";
+// "Hzn-H2-Pxg.text", "0Wn-KX-des.text"
+"Fitness_check_description" = "Der Test macht Spaß, dauert nur 5 Minuten und testet deine Fitness in den Bereichen:";
+// "TsV-Vy-lPK.text", "2bl-qW-Amy.text"
+"Date_of_birth" = "Wann ist der voraussichtliche Geburtstermin deines Kindes?";
+// "ECY-wG-ZsU.text", "aZm-cK-tU2.text"
+"Workout_feedback" = "Wie war das Workout?";
+// "hYg-Px-oX3.text", "oi9-tR-mM4.text"
+"FITNESS" = "FITNESS";
+// "BEB-au-NZE.text", "MJN-ay-Gjk.text"
+"Training_days_choose" = "Wähle deine Trainingstage";
+// "tIr-hY-X9N.text", "VDu-5N-bfm.text"
+"Ingredients" = "Zutaten";
+// "RyB-5l-5OO.text", "EAj-48-29F.text"
+"Gymondo" = "Gymondo";
+// "q7z-69-Eoo.text", "KMC-zJ-z9r.text"
+"CHECK" = "CHECK";
+// "3Y8-hZ-Bgz.text", "dm1-0V-a6f.text"
+"Well_done" = "Gut gemacht";
+// "yTo-ZO-brw.text", "A50-Bf-YQn.text"
+"Spotify" = "Spotify";
+// "Recipe_list"
+"Recipe_list" = "Rezeptliste";
+// "Eyk-q0-WWD.placeholder"
+"Name" = "Name";
+// "6Yg-k6-BUV.normalTitle"
+"REGISTER" = "REGISTRIEREN";
+// "hKb-vk-CbO.normalTitle"
+"TRAINING_DAYS_CHANGE" = "TRAININGSTAGE ÄNDERN";
+// "JLt-Z4-POo.normalTitle"
+"PROGRAM_REPLACE" = "PROGRAMM ERSETZEN";
+// "hEE-tK-0Ni.footerTitle"
+"Customer_survey" = "Kundenumfrage zu Gymondo, Features und Design der App.";
+// "yCB-wW-GKm.placeholder"
+"Date_of_birth_specify" = "Geburtstermin angeben";
+// "T2u-Xm-tlD.normalTitle"
+"PREMIUM_SHOW" = "GYMONDO PREMIUM ANSEHEN";
+// "rTN-Qm-wfi.normalTitle"
+"LEVEL_CHOOSE" = "WÄHLE DEIN LEVEL";
+// "51J-Dp-WkV.normalTitle"
+"NUTRITION_ZONE_BASIC" = "BASIC ZONE";
+// "fTV-dX-R59.normalTitle"
+"NUTRITION_FIT_AND_HEALTHY" = "FIT & GESUND";
+// "eSh-Rc-J1A.normalTitle"
+"NUTRITION_LIGHT_PLATE" = "LIGHT PLATE";
+// "hfq-4k-2Pp.headerTitle"
+"APP_SETTINGS" = "APP EINSTELLUNGEN";
+// "mnw-kR-fGw.normalTitle"
+"Try_again" = "Nochmal versuchen";
+// "dEH-i1-5Jb.normalTitle"
+"NUTRITION_ZONE_GREEN" = "GREEN ZONE";
+// "nZa-Ud-SL6.normalTitle"
+"MOTIVATE_ME" = "MOTIVIERT MICH";
+// "M8p-Pc-M2Q.normalTitle"
+"TRAINING_START" = "TRAINING STARTEN";
+// "mRm-3Y-eIe.normalTitle"
+"NUTRITION_DRINK" = "TRINKEN";
+// "EzE-oS-yKe.footerTitle"
+"Settings_subscription_service" = "Wenn du ein Problem oder eine Frage zu deinem Gymondo Abo hast.";
+// "zEB-4x-iDC.footerTitle"
+"Settings_app_service" = "Wenn du ein Problem mit der Funktion der App hast.";
+// "U9A-JF-woh.headerTitle"
+"SETTINGS_GENERAL" = "ALLGEMEIN";
+// "mB7-1o-ggA.placeholder"
+"Date_of_birth_format" = "Geburtstermin (TT.MM.JJJJ)";
+// "Cdm-cq-FEC.normalTitle"
+"PROGRAM_ENTIRE_UNLOCK" = "GANZES PROGRAMM FREISCHALTEN";
+// "yPR-9H-khf.normalTitle"
+"RATE_US" = "BEWERTE UNS";
+// "Oez-SE-Gqv.normalTitle"
+"EMPTY_LIST" = "LISTE LEEREN";
+// "Mvw-ng-Jgp.placeholder"
+"Surname" = "Nachname";
+// "BMH-hB-Xkf.normalTitle"
+"POINTS_INPUT" = "PUNKTE EINTRAGEN";
+// "pu7-y8-H96.placeholder"
+"Size" = "Größe";
+// "05h-eU-fdV.placeholder"
+"Birthday_format" = "Geburtstag (TT.MM.JJJJ)";
+// "HXZ-JT-spf.headerTitle"
+"Background_music" = "Hintergrundmusik";
+// "Pkb-SI-Oql.normalTitle"
+"FEMALE" = "WEIBLICH";
+// "x4V-gw-50c.normalTitle"
+"PROGRAM_CHANGE" = "ÄNDERE DEIN PROGRAMM";
+// "E2H-pf-AYG.headerTitle"
+"ACCOUNT_YOUR" = "DEIN GYMONDO ACCOUNT";
+// "Tc9-CC-nAA.normalTitle"
+"Standard" = "Standard";
+// "0Wz-If-D0M.normalTitle"
+"DETAILS" = "DETAILS";
+// "HXZ-JT-spf.footerTitle"
+"SPOTIFY_PREMIUM_ONLY" = "Nur möglich für Spotify Premium Kunden.";
+// "hGc-pt-O7k.normalTitle"
+"PASSWORD_REQUEST" = "NEUES PASSWORT ANFORDERN";
+// "loH-P9-gr8.normalTitle"
+"Nutrition_vegetarian" = "Vegetarisch";
+// "H7v-o4-Jck.normalTitle"
+"More_info" = "Mehr Info";
+// "UFr-p7-sPi.normalTitle"
+"DOWNLOAD" = "HERUNTERLADEN";
+// "dCf-W6-Jz6.normalTitle"
+"VITALS_WEIGH_PROPERLY" = "RICHTIG WIEGEN?";
+// "4OH-ot-V96.normalTitle"
+"VITALS_MEASURE_PROPERLY" = "RICHTIG MESSEN?";
+// "oCK-xZ-Mea.placeholder"
+"Weight_your" = "Dein Gewicht (kg)";
+// "LU4-4a-qol.normalTitle"
+"NUTRITION_ZONE_CLEAN" = "CLEAN ZONE";
+// "52p-4Z-cub.normalTitle"
+"FILTER_APPLY" = "FILTER ANWENDEN";
+// "nKo-gZ-pxn.normalTitle"
+"WORKOUT_LENGTH_CHOOSE" = "WÄHLE WORKOUTLÄNGE";
+// "sgK-yf-CAi.normalTitle"
+"INFO_MORE" = "MEHR INFO";
+// "knP-p7-fQp.normalTitle"
+"NUTRITION_SUGAR_FREE" = "KEIN ZUCKER";
+// "pO3-vx-ree.normalTitle"
+"MALE" = "MÄNNLICH";
+// "i0f-K8-EPO.placeholder"
+"Password_current" = "Aktuelles Password";
+// "LPp-AW-1ld.placeholder"
+"Firstname_your" = "Dein Vorname";
+// "4XH-ub-xbl.placeholder", "3sO-8W-1B1.placeholder"
+"Password_new" = "Neues Passwort";
+// "ENQ-7v-sCK.normalTitle"
+"NUTRITION_ALCOHOL_FREE" = "KEIN ALKOHOL";
+// "Qav-LD-jjT.normalTitle"
+"TRAINING_DAYS_CHOOSE" = "WÄHLE TRAININGSTAGE";
+// "LJQ-Ow-Uxw.normalTitle"
+"SUPPORT_ME" = "UNTERSTÜTZT MICH";
+// "LoU-ud-jmj.normalTitle"
+"HOW_ITS_DONE" = "SO WIRD'S GEMACHT";
+// "fM2-cc-Trj.placeholder"
+"Password_your" = "Dein Passwort";
+// "ktw-bj-iTV.normalTitle"
+"NUTRITION_SNACK" = "SNACK";
+// "fuz-Zg-LMS.normalTitle"
+"CUSTOMER_SERVICE_SHOW" = "ZUM KUNDENSERVICE";
+// "ve7-0P-5JU.normalTitle"
+"Nutrition_vegan" = "Vegan";
+// "SOo-nh-Qhu.placeholder"
+"Firstname" = "Vorname";
+// "TB7-eJ-2k8.normalTitle"
+"NUTRITION_NO_READY_MADE_PRODUCTS" = "KEINE FERTIGPRODUKTE";
+// "fgf-TT-Xmn.footerTitle"
+"Help_improve" = "Hilf uns die Anwendung zu verbessern.";
+// "fUP-De-6fT.normalTitle"
+"Instruction" = "Anleitung";
+// "diY-WY-dVU.headerTitle"
+"SUBSCRIPTION_YOUR" = "DEIN ABONNEMENT";
+// "OIy-xI-paZ.placeholder"
+"Weight_format" = "Gewicht (kg)";
+// "IQH-5N-ZIg.normalTitle"
+"PASSWORD_NEW_SAVE" = "NEUES PASSWORT SPEICHERN";
+// "vAK-Ry-4DK.normalTitle"
+"PROGRAMS_OTHER" = "ANDERE PROGRAMME";
+// "AAg-jI-q89.placeholder"
+"Password_repeat" = "Passwort wiederholen";
+// "Ddg-xX-BQp.normalTitle"
+"REDEEM_NOW" = "JETZT EINLÖSEN";
+// "oyS-5t-fvV.placeholder"
+"Password_new_repeat" = "Neues Password wiederholen";
+// "Fsx-0X-AHV.normalTitle"
+"NUTRITION_PLATE_BALANCED" = "BALANCED PLATE";
+// "uB9-hv-OWv.normalTitle"
+"AGREE_AND_CONTINUE" = "ZUSTIMMEN & WEITER";
+// "ybz-TD-iUi.title"
+"Home" = "Home";
+// "8MM-om-QVU.title"
+"Calories_burned" = "Verbrannte Kalorien";
+// "TTv-mo-cCc.title"
+"Settings_problem_report_title" = "Melde ein Problem";
+// "UWm-E1-hZa.text"
+"Settings_problem_report" = "Melde uns ein Problem mit der App";
+// "hXo-QJ-mmX.title"
+"Filter" = "Filter";
+// "gah-jT-69h.title"
+"Programs_other" = "Andere Programme";
+// "GJn-pY-eP4.title"
+"General" = "Allgemein";
+// "dEl-YB-E0i.text"
+"Program_choose" = "Wähle dein Programm";
+// "bsp-Eq-OUr.text"
+"Vitals_measure_properly" = "So nimmst du richtig Maß:";
+// "Uyi-TL-Xie.text"
+"Congratulations" = "Glückwunsch!";
+// "Kha-Ed-bTt.text"
+"E_mail_sent" = "E-Mail wurde versandt";
+// "n65-AQ-Sfn.text"
+"Variety_more" = "Mehr Abwechslung?";
+// "FZb-aM-Qp0.text"
+"Trainer" = "Trainer";
+// "nxz-jd-HuO.text"
+"Calories_total" = "Gesamtverbrauch Kalorien";
+// "G1W-8m-Ix9.text"
+"Nutrition_smoothies_homemade" = "Selbstgemachte Smoothies";
+// "4bt-EM-dOK.text"
+"Start_tap" = "Start: Hier Tippen";
+// "8oO-Wk-K6n.text"
+"Fit_and_happy" = "Werde fit & glücklich";
+// "vHV-Qp-hxw.text"
+"Training_goal_set" = "Setz dir ein Trainingsziel";
+// "YiE-mq-BZG.text"
+"Level_choose" = "Wähle dein Level";
+// "lDO-au-ZNn.text"
+"Program_divided" = "So ist das Programm aufgeteilt:";
+// "D7j-6D-0TH.text"
+"Photos_save" = "Fotos speichern";
+// "uMG-S8-6OO.text"
+"Workout_length_determine" = "Bestimme die Workoutlänge";
+// "U9I-6a-3FT.text"
+"Program_perfect_your" = "Dein perfektes\nProgramm";
+// "eSW-Wd-CIw.text"
+"Nutrition_drinks" = "Getränke";
+// "iAv-ec-eBQ.text"
+"Nutrition_points_remember" = "Vergiss nicht deine\nPunkte einzutragen!";
+// "uRm-mO-ekH.text"
+"Nutrition_water_infused" = "Infused Water (Ingwer, Zitrusfrüchte, Beeren, Gurke)";
+// "URo-pp-hJe.text"
+"Nutrition_frozen_vegetables" = "Tiefkühlgemüse mit Zusätzen: Buttergemüse, Rahmspinat";
+// "gb6-6A-w97.text"
+"Tracking_enable" = "Tracking einschalten";
+// "jwt-7z-LdC.text"
+"Nutrition_flavor_enhancer" = "Geschmacksverstärker";
+// "Ked-W4-hdj.text"
+"Birthday" = "Geburtsdatum";
+// "raB-2n-mbX.text"
+"Nutrition_diet" = "Ernährungsvariante";
+// "RLd-ls-Qr9.text"
+"Nutrition_food_list" = "Food Liste";
+// "Egh-VN-lBH.text"
+"Newsletter" = "Newsletter";
+// "enX-Xe-GuH.text"
+"Onboarding_bodyparts_change" = "Was willst du an dir verändern?";
+// "50u-ex-lgZ.text"
+"Month_per" = "pro\nMonat";
+// "Tft-x1-jja.text"
+"Nutrition_cooking_mode" = "Kochmodus";
+// "0L7-3S-Uev.text"
+"Goals_choose" = "Wähle deine Ziele";
+// "nyk-As-G9L.text"
+"Success_stories" = "Erfolgsgeschichten";
+// "y1C-fO-ufK.text"
+"Workout_start" = "Starte ein Workout...";
+// "JHw-8X-mJJ.text"
+"Recipes_advice" = "Unser Tipp";
+// "qEX-QK-AbZ.text"
+"Woman" = "Frau";
+// "tCc-sp-PVd.text"
+"Customer_service" = "Kundenservice";
+// "ysV-Y6-X6x.text"
+"Nutrition_fist_sizes" = "Faustgrößen ";
+// "1Ce-Ks-1QS.text"
+"Gymondo_music" = "Gymondo Musik";
+// "Y7G-Z5-ASs.text"
+"Nutrition_frozen_pizza" = "Tiefkühlpizza";
+// "asp-9f-cHb.text"
+"Nutrition_fried" = "Paniertes wie Chicken Nuggets, Fischstäbchen";
+// "4ot-3a-Cbp.text"
+"Subscription_info" = "Subscription Info";
+// "Ijw-FH-IQy.text"
+"Repetitions_achieved" = "Wie viele Wiederholungen hast du geschafft?";
+// "eui-Av-Ozi.text"
+"Traning_days_choose" = "Wähle Trainingstage";
+// "kKa-fR-KCL.text"
+"Level_your" = "Dein Level";
+// "G5b-zh-qM7.text"
+"Nutrition_values" = "Nährwerte ";
+// "qar-Wo-4iA.text"
+"Goal_choose" = "Wähle Dein Ziel";
+// "4xY-Ij-jcu.text"
+"Program_end" = "Programmende:";
+// "qaZ-KR-xO3.text"
+"Register_yourself" = "Registriere dich";
+// "GlU-Co-QTz.text"
+"Fitness_check_result_last" = "LETZTES ERGEBNIS";
+// "7lm-0L-csz.text"
+"Weight_normal" = "Normalgewicht";
+// "BhV-ZO-KS6.text"
+"GOAL_YOUR" = "DEIN ZIEL";
+// "Zif-mY-4HE.text"
+"Man" = "Mann";
+// "5mK-26-EG1.text"
+"Gymondo_premium" = "Gymondo Premium";
+// "hYE-Qq-pOV.text"
+"Calorie_consumption" = "Kalorienverbrauch";
+// "jMl-FH-zJD.text"
+"Onboarding_not_registered" = "Noch nicht registriert? ";
+// "krg-Fm-bGh.text"
+"Program_contains" = "Dieses Programm enthält";
+// "e9t-86-BeA.text"
+"Nutrition_light_plate_description" = "Deine Light Plate füllst Du mit jeder Menge Gemüse und Proteinen. Kohlenhydratreiche Beilagen wie Nudeln und Co lässt du weg. So hälst Du Deinen Blutzucker- und Insulinspiegel niedrig und gibst Deinem Körper die Chance effektiv Fett zu verbrennen.";
+// "goM-r9-SgN.text"
+"E_mail_service" = "E-Mail: service@gymondo.de";
+// "3ey-9e-xP2.text"
+"Nutrition_score_your" = "Deinen Nutrition \nScore";
+// "jkG-Ht-q19.text"
+"Contained_in" = "Enthalten in";
+// "IxO-BU-d4G.text"
+"Nutrition_instant_soups" = "Tütensuppen";
+// "vGS-Gf-2py.text"
+"BMI" = "BMI";
+// "Hht-tj-QG9.text"
+"Level_current" = "Dein Level ist";
+// "VhN-pd-9Y7.text"
+"Detail" = "Detail";
+// "n6i-oF-MzG.text"
+"Settings_feedback" = "Gib uns Feedback";
+// "DKw-SB-pOL.text"
+"Before" = "Vorher";
+// "J3k-Uo-MZq.text"
+"Training_personalize" = "Personalisiere dein Training";
+// "O9b-8g-fla.text"
+"Challenge_reason" = "Wofür sind die Challenges gut?";
+// "pHT-bf-1DC.text"
+"Nutrition_coffee" = "Kaffee (mit einem Schuss Milch)";
+// "EgX-3d-hcG.text"
+"Onboarding_login_with_profile" = "Mit Profil einloggen";
+// "4RZ-4p-zqz.text"
+"Nutrition_sweeteners" = "Süßstoffe";
+// "ZwQ-VX-xxG.text"
+"Nutrition_carbs_complex" = "Komplexe Kohlenhydrate wie Vollkornprodukte, Haferflocken, Vollkornreis, Hülsenfrüchte, Kürbis, Kartoffeln, Pseudogetreide (Amaranth, Quinoa,\nBuchweizen)";
+// "F6F-GZ-GaE.text"
+"Fitness_profile_complete" = "Vervollständige dein persönliches Fitnessprofil";
+// "4S9-Ci-PTI.text"
+"Spotify_premium_needed" = "Du benötigst Spotify Premium";
+// "P3a-2x-LVZ.text"
+"Gymondo_playlist" = "Gymondo Playlist";
+// "TW1-3w-545.text"
+"Shuffle" = "Shuffle";
+// "a91-2i-v1s.text"
+"Nutrition_plans_individual" = "Individuelle Ernährungspläne mit 2000+ Rezepten";
+// "KRy-kB-o9N.text"
+"End_date" = "Ende:";
+// "kcn-bk-gQP.text"
+"Gender" = "Geschlecht:";
+// "Iab-sD-spt.text"
+"Workout_bodyparts_used" = "Beansprucht";
+// "1RZ-Bw-7pr.text"
+"SPOTIFY_PLAYLISTS" = "SPOTIFY PLAYLISTS";
+// "4Fb-q4-QIm.text"
+"Nutrition_ready_sauces" = "Fertige Soßen";
+// "training_workout_done"
+"WORKOUT_DONE" = "GESCHAFFT";
+// "kFg-ly-jMh.text"
+"Done" = "Geschafft";
+// "eh0-8f-TjH.text"
+"Afterwards" = "Nachher";
+// "aXd-2V-S4q.title"
+"Step_1" = "Schritt 1/4";
+// "UBk-HU-mQn.title"
+"Step_2" = "Schritt 2/4";
+// "aos-wp-zS3.title"
+"Step_3" = "Schritt 3/4";
+// "sqQ-wZ-eIv.title"
+"Step_4" = "Schritt 4/4";
+// "KsX-hZ-MWW.text"
+"Start_date" = "Start:";
+// "CgA-Qq-sUa.text"
+"Subscription_paused_br" = "Dein Abo\nist pausiert";
+// "nZZ-3I-yjf.text"
+"Subscription_paused" = "Dein Abo ist pausiert";
+// "2ui-8f-3AE.text"
+"Premium_go_now_br" = "Jetzt Premium\nMitglied werden";
+// "xOb-jR-Z8L.text"
+"Premium_go_now" = "Jetzt Premium Mitglied werden";
+// "5HX-f4-aTI.text", "HlV-ha-0yQ.text"
+"Recipes_how_its_done" = "So wird's gemacht";
+// "pNS-dj-Mm6.text"
+"Program_individual" = "Individuelle Programme";
+// "8bL-3e-Fp2.text"
+"Training_days_change" = "Du kannst deine Trainingstage jederzeit\nändern.";
+// "3P5-lF-baq.text"
+"Gymondo_challenge" = "Die Gymondo Challenges";
+// "xVU-iJ-iet.text"
+"Program_start_first" = "Starte dein erstes Programm...";
+// "U2R-QN-rXL.text"
+"Nutrition_sweet_drinks" = "Süße Getränke wie Soft- und Energydrinks";
+// "3kk-iL-kGf.text"
+"Playlist_Spotify_create" = "Erstelle zuerst eine Playlist in Deinem Spotify Konto. Mit Deinen Lieblingssongs die Dich motivieren.";
+// "nHI-p5-2uf.text"
+"Nutrition_juices" = "Fruchtsaftgetränke, Nektare";
+// "cQX-Z1-wYq.text"
+"Shopping_list_empty" = "Deine Einkaufsliste enthält keine Rezepte. Füge Rezepte ganz einfach hinzu indem du auf das Icon klickst.";
+// "W4h-Dc-Lrm.text"
+"Shopping_list_full" = "Du hast mehr als 50 Rezepte auf deinem Einkaufszettel. Bitte entferne einige.";
+// "fF4-Bc-LNu.text"
+"Settings_HD_over_cellular" = "HD Qualität im mobilen Netzwerk";
+// "ASY-lc-uWl.footerTitle"
+"Settings_HD_over_cellular_warning" = "Diese Einstellung erhöht deinen mobilen Datenverbrauch.";
+// "7dZ-T5-xvW.text"
+"Nutrition_fries" = "Pommes, Chips";
+// "OjW-dU-Re4.text"
+"Nutrition_natural_carbs_sources" = "Natürliche Kohlenhydratquellen";
+// "fYF-K6-QgC.text", "5GM-EZ-F3u.text"
+"Subscription_error_generic" = "Huch, etwas ist schiefgelaufen";
+// "JD6-bG-WYG.text"
+"Nutrition_diet_choose" = "Wähle Deinen Ernährungsstil";
+// "08F-90-EJv.text"
+"Nutrition_sugar_description" = "Zucker liefert Dir viel schnelle Energie, aber keinerlei Nährstoffe (“leere Kalorien”). Außerdem kann Zucker süchtig machen, da es die Dopaminausschüttung im Gehirn anregt und somit das Belohnungszentrum aktiviert. Du möchtest also immer mehr davon haben.\n\nDer Verzehr führt in Deinem Körper zu starken Blutzuckerschwankungen, wodurch Heißhunger entsteht.\n\nÜbermäßiger Zuckerkonsum erhöht das Risiko für die Entstehung von Karies und Diabetes mellitus Typ 2.";
+// "sw7-GM-I6A.text"
+"Nutrition_goal_adjust" = "Ziel Anpassen. Wenn du Dein Ziel anpasst, bleiben Deine Nutrition Punkte erhalten.";
+// "fEJ-25-Tcl.text"
+"Nutrition_leave_cheeky_three" = "Wenn Du auf alle der Dreisten Drei verzichtest.";
+// "push_optin_message"
+"Onboarding_notification_example_message_fmt" = "Hi %@, heute ist das Workout Fatburner dran. Bist du bereit?";
+// "srk-nK-Uap.text"
+"Onboarding_notification_example_time" = "Vor 10 Min.";
+// "aDa-tp-SPb.text"
+"Nutrition_dairy_products" = "Milchprodukte in Maßen (Milchzucker/Laktose)";
+// "Kdf-VW-w3i.text"
+"Nutrition_stick_to_recipes" = "Halte Dich an unsere Rezepte";
+// "sK0-pq-hWD.text"
+"Nutrition_supports_weight_reduction" = "Unterstützt das Ziel der Gewichtsreduktion optimal. Ziel ist hier eine gesunde, kalorienarme Ernährung.";
+// "jRY-GK-g7G.text"
+"Challenge_results" = "Die Ergebnisse deiner Challenges kannst nur du selbst in deinem Fitnessprofil sehen. Deine persönlichen Daten werden von uns nicht an Dritte weitergegeben und dienen einzig deiner persönlichen Erfolgsmessung.";
+// "3xe-5G-aYK.text"
+"BMI_input_info" = "Trage Alter, Geschlecht und Körpergröße ein, um deinen Kalorienverbrauch und BMI zu berechnen. Diese Werte kannst du auch später eintragen.";
+// "Ods-xO-CRc.text"
+"Nutrition_points_per_week" = " Punkte (7 Tage ⌀)";
+// "bUf-Yh-H2t.text"
+"Conversion_multiple_test_winner" = "Mehrfacher Testsieger als Bestes Online Fitness Studio";
+// "6g1-m1-rE4.text"
+"Recipes_sleep_mode_deactivate" = "Automatische Sperre deaktivieren";
+// "Mq0-qQ-eDi.text"
+"Nutrition_explanation" = "Kohlenhydrate aus Getreide und Beilagen liefern dir die nötige Energie für den Tag und Deine Workouts. Du hast immer die Wahl mehr Gemüse zu Essen und dafür die Beilagen Portion zu verringern. Achte darauf, dass dich Dein Essen bis zur nächsten Mahlzeit sättigt. Nimm einen Nachschlag an Gemüse und Protein, wenn Du noch hungrig bist..\n\nDein Teller versorgt Dich neben gesunden Kohlenhydraten, Proteinen und Fetten mit jeder Menge Vitamine, Mineralstoffe und Ballaststoffe, also allem, was Du brauchst um dich rundum wohlzufühlen und gesund zu bleiben.\n\nJe abwechslungsreicher Deine Ernährung ist, desto besser. Teste viele verschiedene und auch mal neue Lebensmittel deiner Foodliste.";
+// "tUN-Ki-0wx.text"
+"E_mail_password_reset" = "Wir haben dir eine E-Mail an deine Adresse geschickt. Folge den Anweisungen in der E-Mail, um ein neues Passwort zu erstellen.";
+// "D5a-d7-iBb.text"
+"Weight_measurement_same_time" = "Immer zur selben Zeit";
+// "a2l-2a-QNl.text"
+"Weight_measurement_solid_ground" = "Immer auf festem Untergrund";
+// "eSF-sr-3gm.text"
+"Weight_measurement_solid_ground_detail" = "Achte darauf, dass deine Waage immer auf einem festen, ebenen Untergrund steht. Steht deine Waage z.B. auf einem weichen Badezimmerteppich, kann das deine Messergebnisse stark verfälschen. ";
+// "vcr-L9-GC0.text"
+"Weight_measurement_frequence" = "Wiege dich und nimm deine Maße einmal pro Woche – nicht öfter, nicht seltener. Dein Körpergewicht schwankt im Laufe des Tages. Am aussagekräftigsten sind deine Ergebnisse, wenn du immer zur gleichen Zeit auf die Waage steigst, am besten morgens vor dem Frühstück.";
+// "XFg-I5-qfi.text"
+"Weight_measurement_same_scale" = "Bleib deiner Waage treu";
+// "h0F-BM-5VE.text"
+"Weight_measurement_inaccuracies" = "Wenn du dich unterwegs auf einer anderen Waage wiegst, musst du immer mit kleineren Messungenauigkeiten rechnen. Es kann also durchaus sein, dass die Waage zu Hause etwas anderes anzeigt als die bei deiner Freundin.";
+// "mYb-pS-3c1.text"
+"Nutrition_food_list_description" = "Auf der Food Liste siehst Du, aus welchen Lebensmitteln Du Dir Dein Essen selbst zusammenstellen kannst. Befüllst Du Deinen Teller nach der Food Liste, erhältst Du Nutrition Punkte.";
+// "yOv-bv-XOD.text"
+"Nutrition_zone_points" = "0 - 7  Basic    8 - 14  Green    15 - 20  Clean";
+// "t8H-2O-8No.text"
+"Nutrition_plate_split" = "Teile Deinen Teller gedanklich in 3 Teile und fülle ihn mit Lebensmitteln Deiner Food Liste.";
+// "YkS-kq-DBl.text"
+"Deactivate_vitals_deletion" = "Beim deaktivieren werden alle eingetragenen Vitaldaten und darauf basierende Berechnungen (z.B. Kalorien, BMI), sowie dein Gewichtsverlauf gelöscht.";
+// "ugI-jH-P2z.text"
+"Onboarding_level_how_fit" = "Wie fit bist du?";
+// "OXe-RY-vK6.normalTitle", "onboarding_fitness_level_1"
+"ONBOARDING_LEVEL_1" = "NICHT SO FIT";
+// "EKQ-P9-x12.normalTitle", "onboarding_fitness_level_2"
+"ONBOARDING_LEVEL_2" = "RELATIV FIT";
+// "e2o-Xn-gSt.normalTitle", "onboarding_fitness_level_3"
+"ONBOARDING_LEVEL_3" = "SUPER FIT";
+// "ID2-bV-4eN.text"
+"Onboarding_level_1_desc" = "Selten bis gar kein Sport";
+// "gY0-Xj-rfm.text"
+"Onboarding_level_3_desc" = "Mehr als 2 mal Sport pro Woche";
+// "2az-My-K4m.text"
+"Onboarding_level_2_desc" = "1-2 mal Sport pro Woche";
+// "D3d-r2-CkB.text"
+"Nutrition_plate_low_carb" = "2/3 Gemüse, 1/3 Protein und eine Portion gesundes Fett.\nSo sieht Dein perfekter Low Carb Teller aus.";
+// "xBV-cL-XcN.text"
+"Nutrition_ready_made_vs_fresh" = "Fertigprodukte enthalten viel Fett, Zucker und chemische Zusätze. Frische Lebensmittel versorgen Deinen Körper mit wertvollen Nährstoffen.";
+// "j6s-fq-Z4B.text"
+"Nutrition_two_goals_two_concepts" = "Zwei Ziele, \nZwei Konzepte";
+// "xxp-vR-noV.text"
+"Nutrition_alcohol_alternatives" = "Alkohol ist eine Kalorienbombe. Trinke stattdessen Wasser oder ungesüßten Tee.";
+// "KFv-ec-8hl.text"
+"Onboarding_goal_title" = "Was ist dein Trainingsziel?";
+// "XLj-FN-dbl.text"
+"Nutrition_ready_made_fast_food" = "Alles was Du als Fertiggericht im Supermarkt kaufen kannst und Fast Food";
+// "gXy-or-l7W.text"
+"Nutrition_plan_two_goals" = "Bei unserem Gymondo Ernährungsplan kannst du zwei Ziele auswählen:";
+// "5Qh-SL-idm.text"
+"Nutrition_statistics_tutorial" = "Streiche nach links und rechts um deinen Fortschritt zu sehen";
+// "kSG-tF-x6c.text"
+"Nutrition_sweets_cake" = "Süßigkeiten und Kuchen/Gebäck";
+// "aeB-Y3-w0n.text"
+"Conversion_test_workouts" = "Teste zwei Workouts kostenlos";
+// "WXG-Xr-PYQ.text"
+"Nutrition_carbs_bad_vs_good" = "Zuckerhaltiges und Weißmehlprodukte machen Dich nur kurzfristig satt. Greife stattdessen zu komplexen Kohlenhydraten mit vielen Ballaststoffen.";
+// "2Iu-7Q-Yar.text"
+"Profile_create_description" = "Erstelle in wenigen Schritten dein kostenloses Profil. So kannst du deine Fortschritte verfolgen, Favoriten speichern und noch effektiver trainieren.";
+// "Jh7-kQ-u0u.text"
+"Progress_save" = "Du möchtest deine Fortschritte festhalten?";
+// "tjS-Bc-6ln.text"
+"Onboarding_profile_creation_loading" = "Super, dass du hier bist. Wir stellen jetzt dein perfektes Training zusammen!";
+// "ufn-Bd-Aat.text"
+"Conversion_personal_success_story" = "Schreib deine persönliche Erfolgsgeschichte";
+// "igc-pZ-WNo.text"
+"Challenge_description" = "Deine Challenge sorgt dafür, dass du zu Beginn des Workouts mit einer effektiven Ganzkörper Übung auf Betriebstemperatur kommst. In deinem Fitnessprofil werden die Ergebnisse der Challenges gespeichert. So kannst du jederzeit deine Fortschritte sehen.";
+// "Cje-oF-TPM.text"
+"Nutrition_plate_rules" = "Halte Dich an unsere einfachen Tellerregeln, dann isst Du gesund.";
+// "SSf-kp-FzR.text"
+"Conversion_content_available" = "60+ Fitness Programme und 700+ Workout Videos";
+// "lnm-eD-lfI.text"
+"Program_goals_description" = "Du möchtest abnehmen und gezielt Problemzonen straffen, hast aber wenig Zeit? Oder einfach mehr Abwechslung beim Training und Cardio mit Yoga Workouts kombinieren? Egal welche Ziele, welches Fitness Level und wieviel Zeit du hast: dein Meine Ziele Programm ist so einzigartig wie du selbst und passt sich durch dein Feedback ständig an.";
+// "uYW-1T-Bvl.text"
+"Challenges_motivation" = "...und mach ein paar Übungen";
+// "me5-L7-9Bj.text"
+"Vitals_save_approval" = "Wir brauchen Deine Zustimmung zur Speicherung und Verarbeitung Deiner Vitaldaten (Gewicht, Größe, Puls, Bein-, Bauch-, und Hüftumfang). Die Daten werden verwendet für Deine persönlichen Erfolgsmessungen sowie zur Berechnung von Deinem BMI und Kalorienverbrauch. Deine Einwilligung kannst Du jederzeit in den Einstellungen widerrufen.";
+// "QwJ-lq-Qze.text"
+"Settings_contact_privacy_disclaimer" = "Mit dem Abschicken deiner Nachricht erlaubst du uns die Modelnummer deines Gerätes zu erfassen, damit wir dein Problem beheben können.";
+// "ZJv-un-Yog.text"
+"Onboarding_gender_input" = "Wunderbar! Verrätst du mir noch dein Geschlecht?";
+// "LEC-UN-LYo.text"
+"Profile_finish" = "Dein Profil wurde angelegt. Willst du es jetzt fertigstellen?";
+// "FDV-GC-gzA.text"
+"Nutrition_plate_rules_follow" = "wenn Du für alle Gerichte die Tellerregeln befolgst.";
+// "gRn-OQ-I00.text"
+"E_mail_reminder_enable" = "Wir wollen dich optimal unterstützen. Dazu würden wir dir gerne motivierende E-Mails und Trainingserinnerungen schicken.";
+// "5Db-zx-EFd.text"
+"Nutrition_fructose" = "Obst (frische Früchte oder Datteln), Honig, Stevia, Agavendicksaft, Erythrit";
+// "UJF-oa-VUj.text"
+"Recipes_suggestion" = "Damit wir Dir passende Rezepte vorschlagen können.";
+// "8l7-mF-a6r.text"
+"Nutrition_supports_sporty_lifestyle" = "unterstützt Deinen sportlichen Lifestyle und liefert Energie für einen gesunden, sportlichen Körper";
+// "dv1-pe-AyS.text"
+"Subscription_renew" = "Derzeit bist du nicht als Premium Mitglied angemeldet. Bitte erneuere deine Mitgliedschaft oder wende dich an unseren Kundenservice.";
+// "Uoi-wi-uLk.text"
+"Challenges_attention" = "Worauf sollte ich bei den Challenges achten?";
+// "xhL-Af-LiT.text"
+"Conversion_limited_campaign" = "Zeitlich limitierte Aktion. GYMONDO Premium ist innerhalb des kostenlosen Testmonats jederzeit kündbar. Wähle PREMIUM ANSEHEN in den Einstellungen um das Angebot wahrzunehmen.";
+// "cOX-ng-0nG.text"
+"Program_personal_choose" = "Wähle dein persönliches Fitness Programm. Perfekt auf dein Ziel und Fitness Level abgestimmt.";
+// "AZ8-Vf-myV.text"
+"Nutrition_greens_proteins" = "Die Kombination von Obst oder Gemüse mit Proteinen sättigt gut und ist der perfekte Snack vor oder nach Deinem Workout.";
+// "71E-M4-EJ9.text"
+"Nutrition_sugar_added" = "zugesetzter Zucker (Glucose, Fructose, Malzsirup, Maltodextrin, Glucose-Fructose-Sirup) und Weißmehlprodukte";
+// "qf5-dt-ytS.text"
+"Nutrition_fruits_per_day" = "Obst (bis zu 2 Portionen/Tag)";
+// "8id-zv-k0D.text"
+"Challenges_repetition_explanation" = "Du hast eine Wiederholung geschafft, wenn du die Übung einmal im vollen Bewegungsumfang ausgeführt hast. Beispiel für eine Wiederholung:\n\nSquat: Ausgangsposition > tief in die Kniebeuge > Ausgangsposition\n\nLunges & Power Knees: Hier wechselst du nach 30 Sekunden das Standbein. Für jede komplette, einseitige Ausführung zählst du eine Wiederholung.\n\nMountain Climbers: Hier ziehst du im Wechsel das rechte und das linke Bein zum Rumpf. Wenn du beide Beine zu dir herangezogen hast, zählt das als eine Wiederholung.";
+// "sk3-Wo-mKe.text"
+"Challenges_workout_explained" = "In den Workout Videos werden alle Übungen von unseren Gymondo Trainern ausführlich erklärt. Mehr Infos zu allen wichtigen Übungen findest du im Gymondo Magazin";
+// "Bl5-ls-gNM.text"
+"Fitness_check_results_compare" = "Hier kannst du deine Ergebnisse mit deinem letzten Fitness Test vergleichen";
+// "JOI-Hh-zQo.text"
+"Conversion_happy_users" = "Tausende\nglückliche Nutzer";
+// "YGj-bG-MqT.text"
+"Password_new_sent" = "Ein neues Passwort wurde and deine E-mail-Adresse geschickt";
+// "ba9-mz-VAS.text"
+"Premium_change_training_days" = "Als Premium Mitglied kannst du deine Trainingstage ändern und dein Programm pausieren oder beenden";
+// "eIk-dU-ncj.text"
+"Challenge_explanation" = "In der Challenge gibst du gleich am Anfang deines Workouts Vollgas! In 60 Sekunden machst du so viele Wiederholungen wie möglich. Am Ende der Challenge trägst du ein, wie viele Wiederholungen du geschafft hast.";
+// "HY9-Ca-l8L.text"
+"Nutrition_alcohol_calories" = "Alkohol hat so viele Kalorien wie pures Fett! Bei Cocktails oder ein bis zwei Bier landen schnell die Kalorien einer ganzen Mahlzeit im Glas.\n\nAlkohol wirkt gleich mehrfach ungünstig: Er regt den Appetit an, hemmt die Fettverbrennung, reduziert die Aufnahme lebenswichtiger Nährstoffe (Vitamine, Mineralstoffe) und wirkt entwässernd.\n\nDurch Alkohol verlängert sich Deine Regenerationszeit und er wirkt sich negativ auf Deine Schlafqualität aus.";
+// "6nA-Tw-Egb.text"
+"Challenges_available" = "Welche Challenges gibt es?";
+// "cgg-CT-nxX.text"
+"Challenge_goal" = "Das Ziel der Challenge ist es, so viele Wiederholungen wie möglich zu schaffen. Genauso wichtig ist aber, dass du die Übungen immer sauber und im vollen Bewegungsumfang ausführst. Nur so trainierst du sicher und effektiv.";
+// "UPe-zE-Lmb.text"
+"Challenge_repetitions_input" = "Wie viele Wiederholungen hast du\ngeschafft?";
+// "3Nz-Yd-d7U.text", "Tnh-fm-g2l.text"
+"Vitals_save_request" = "Wir brauchen deine Zustimmung zur Speicherung und Verarbeitung deiner Vitaldaten (Gewicht, Größe, Puls, Bein-, Bauch-, und Hüftumfang). Die Daten werden verwendet für deine persönlichen Erfolgsmessungen sowie zur Berechnung von deinem BMI und Kalorienverbrauch. Mit deiner Zustimmung kannst du auf alle Bereiche im Fitnessprofil zugreifen. Deine Einwilligung kannst du jederzeit in den Einstellungen widerrufen.";
+// "bo4-RQ-kEe.footerTitle", "I9J-Rz-bXm.text"
+"Settings_vitals_save_confirm" = "Ich bin damit einverstanden, dass Gymondo meine Vitaldaten (Größe, Gewicht, Puls, Bein-, Bauch-, und Hüftumfang) in meinem Gymondo-Konto speichert.";
+// "AF5-vw-nwX.text", "HRR-cV-2fv.text"
+"Registration_terms_confirm_tv" = "Mit der Registrierung bestätigst du die Allgemeinen Geschäftsbedingungen, Datenschutzerklärungen und Mobilen Nutzungsbedingungen von Gymondo";
+// "dxX-OQ-ooi.text", "WiM-Ud-ldW.text", "y59-Va-FOo.text", "Zt9-eJ-Aw5.text", "Igd-Mg-zIV.text"
+"Onboarding_privacy_sharing" = "Wir teilen keine Inhalte ohne deine Zustimmung";
+// "Aqp-am-Ayq.text", "uZ5-Ws-tbe.text"
+"Program_goals_multiple_choices" = "Du kannst mehr als ein Ziel wählen.";
+// "wZu-lm-VKy.text", "Vdw-2v-yvY.text"
+"Registration_terms_confirm" = "Mit deiner Registrierung bestätigst du Gymondos";
+// "8AU-Ri-qkb.text", "565-9q-Ycu.text"
+"Subscription_error_contact_customer_care" = "Derzeit bist du nicht als Premium Mitglied angemeldet. Bitte wende dich an unseren Kundenservice.";
+// "alert_data_privacy_edit_picture_message"
+"Alert_privacy_enable_pictures" = "Mit dem Klick auf den Button \"Akzeptieren\" willige ich ein, dass Gymondo von mir hochgeladene Fotos in meinem Gymondo-Konto speichert. Meine Einwilligung kann ich jederzeit in den Einstellungen widerrufen.";
+// "9er-Mw-0TH.footerTitle"
+"Settings_pictures_save_confirm" = "Ich bin damit einverstanden, dass Gymondo von mir hochgeladene Fotos in meinem Gymondo-Konto speichert.";
+// "k0P-Db-cGj.text"
+"Conversion_success_message" = "Wir freuen uns dass du bei uns bist. Und darauf, dich jeden Tag ein Stück fitter, gesünder und glücklicher zu machen.";
+// "orI-3a-Kgj.text"
+"Nutrition_alcohol_examples" = "Bier, Wein, Cocktails, Schnaps, Alkopops, Likör, Wodka, ...";
+// "PRQ-7I-4hX.text"
+"Nutrition_alternative_sweeteners" = "Alternative Süßungsmittel (in kleinen Mengen)";
+// "ffg-35-ZFl.text"
+"Onboarding_registration_title" = "Melde dich an um dein personalisiertes Trainingsprogramm fertigzustellen";
+// "rqy-Ly-inL.text"
+"Challenges_how_to_excercise" = "Wie mache ich die Übungen richtig?";
+// "xOw-RL-vmD.text"
+"Challenges_count_how_to" = "Wie zähle ich die Challenges richtig?";
+// "miS-42-Euz.text"
+"Conversion_goals_achieve" = "Erreiche jetzt deine Ziele. Garantiert.";
+// "M2o-RK-i8K.text"
+"Password_changed_success_tv" = "Dein Passwort wurde erfolgreich geändert.\nDenk daran beim Anmelden dein neues Passwort zu verwenden.";
+// "jlx-Ua-GEO.text"
+"Onboarding_goal_change_later" = "Keine Sorge, du kannst dein Trainingsziel jederzeit ändern.";
+// "MXp-hg-Ypy.text"
+"Onboarding_train_at_home" = "Zuhause trainieren. Auf dein Ziel und Fitness Level abgestimmt.";
+// "NCc-D2-ibM.text"
+"Nutrition_zone_clean_description" = "Du isst clean und wirst Dein Ziel schneller erreichen! Deine Ernährung unterstützt Dein Training optimal.";
+// "8LZ-Fw-BUd.text"
+"Training_paused_motivation" = "Gib dir einen Ruck! Auch wenn deine Ziele gerade weit entfernt sind und du das ein oder andere Workout verpasst hast: Jede Minute des Programms macht dich fitter!";
+// "eWR-ov-KT8.text"
+"Conversion_start_perfect_program" = "Starte Dein perfektes Trainingsprogramm, inklusive vielen gesunden Rezepten.";
+// "7iB-XY-Gq8.text"
+"Fitness_profile_create_motivation" = "Erstelle in wenigen Schritten dein kostenloses Profil und trainiere noch effektiver.";
+// "q63-Wp-2EU.text"
+"Challenges_results_public" = "Sind meine Challenge Ergebnisse öffentlich sichtbar?";
+// "FV0-63-Esz.text"
+"Nutrition_carbs_examples_bad" = "Weißbrot, Toast, Weizennudeln";
+// "gcA-Px-4Lq.text"
+"Nutrition_small_appetite" = "Für den kleinen Hunger zwischendurch kombiniere eine Portion Gemüse oder Obst mit einer Portion Protein. Als Maßeinheit für eine Portion gilt Deine eigene Faust.";
+// "tSk-Ln-sFL.text"
+"Spotify_playlists_new" = "Aufregende Neuigkeiten: Wir haben brandneue Spotify Playlists für dein Workout erstellt!\nNur möglich für Spotify Premium Kunden.";
+// "8uE-04-4S0.text"
+"Recipes_available" = "Für schnelle Ergebnisse: Große Auswahl an über 1000 gesunden Rezepten";
+// "ecP-Wt-dHo.text"
+"Recipe_recommendations" = "Wir schlagen Dir täglich Rezepte vor, die zu Deinen Tellerregeln passen. Koche sie einfach nach und Du bist auf der sicheren Seite.";
+// "mPJ-TX-Lof.text"
+"Nutrition_ready_made_products" = "Fertigprodukte und verarbeitete Lebensmittel enthalten kaum noch Nährstoffe, dafür aber eine Menge künstlicher Zusatzstoffe (erkennbar an langen Zutatenlisten).\n\nDurch Geschmacksverstärker, Aromen, Zuckerzusätze sowie hohen Salz- und Fettgehalt verändert sich Deine natürliche Geschmackswahrnehmung.\n\nSüßstoffe verhindern, dass Du Dich vom süßen Geschmack löst. Streiche sie bestenfalls komplett aus Deiner Ernährung.";
+// "9Dd-b0-fYO.text"
+"Program_multiple_allowed" = "Du kannst ein zweites Programm gleichzeitig trainieren.";
+// "my6-3o-7ar.text"
+"Nutrition_yogurt_jam" = "Fruchtjoghurt und Marmeladen";
+// "iFh-h7-Ovl.text"
+"Nutrition_points_input" = "Trage deine Nutrition Punkte jeden Tag in der Gymondo App oder auf unserer Webseite ein. Du kannst max. 20 Punkte am Tag erreichen. Je mehr Punkte du sammelst, umso besser unterstützt deine Ernährung deine Ziele.";
+// "0EI-Ng-V7O.text"
+"Nutrition_plate_setup" = "Stelle Dir Deinen Teller flexibel zusammen";
+// "XJ4-N1-c7n.text"
+"Onboarding_notification_motivation" = "Motivierende Push Nachrichten steigern deine Erfolgschance um";
+// "Lgv-w3-bFH.text"
+"Nutrition_goals_title" = "Erreiche Deine \nZiele schneller";
+// "0ea-68-cDB.text"
+"CONVERSION_PROGRAMS_WORKOUTS" = "DIE BESTEN FITNESS PROGRAMME UND WORKOUTS FÜR DEIN ZIEL.";
+// "juF-c1-rR2.text"
+"Nutrition_plate_balanced" = "1/3 Gemüse, 1/3 Protein, 1/3 Beilagen und dazu eine Portion gesundes Fett. Das ist Dein ausgewogener Teller.";
+// "1KA-t3-2qw.text"
+"Onboarding_bodyparts_multiple" = "Du kannst mehrere Körperregionen auswählen";
+// "RKe-sz-dHT.text"
+"Nutrition_zone_basic_description" = "Deine Ernährung lässt sich noch optimieren. Sammle mehr Punkte um Deinen Fortschritt voranzutreiben!";
+// "VjI-sM-DGA.text"
+"Conversion_start_express" = "Starte jetzt das kostenlose Express Programm!";
+// "5kU-st-tM5.text"
+"Conversion_programs_count" = "über 35 Fitness Programme";
+// "NGK-ub-BmQ.text"
+"Nutrition_few_ingredients" = "Produkte mit kurzer Zutatenliste";
+// "14e-bO-HKZ.text"
+"Challenges_list" = "Es gibt 7 verschiedene Gymondo Challenges\n  •  Lunges (Ausfallschritte)\n  •  Squats (Kniebeugen)\n  •  Crunches (Rumpfheber)\n  •  Burpees (Hockstrecksprünge)\n  •  Mountain Climbers (Bergsteiger Übung)\n  •  Power Knees (Knieheber)\n  •  Push Ups (Liegestütze)";
+// "YDR-MM-mXQ.text"
+"Nutrition_give_up_three" = "Verzichte so oft wie möglich \nauf die Dreisten Drei - Zucker, Alkohol, Fertigprodukte";
+// "9N8-un-3Lu.text"
+"Nutrition_food_list_content" = "Lebensmittel deiner Foodliste";
+// "yKj-BS-Gxz.text"
+"Nutrition_water_intake" = "Täglich 2 - 2,5 Liter Wasser und ungesüßter Tee";
+// "trw-x8-PMH.text"
+"Nutrition_water_intake_description" = "Achte zusätzlich darauf täglich 2 Liter Wasser oder ungesüßten Tee zu trinken. Nur so kann Dein Stoffwechsel optimal arbeiten und Du bist voll leistungsfähig.";
+// "ilg-Ho-cuT.text"
+"Rate_gymondo" = "Wenn dir Gymondo gefällt, dann bewerte uns bitte\nmit 5 Sternen im App Store.";
+// "i1U-8x-mNH.text"
+"Nutrition_zone_green_description" = "Du bist dabei dein Ziel in normaler Geschwindigkeit zu erreichen. Deine Ernährung ist insgesamt gesund und ausgewogen!";
+// "Z5V-RD-OuH.text"
+"Nutrition_fresh_food" = "Frische und möglichst unverarbeitete Lebensmittel";
+// "Qrl-UL-kn9.text"
+"Conversion_welcome" = "Willkommen im Team\nGymondo!";
+// "fitness_profile_vital_description_hip"
+"Vitals_hips_instructions" = "Stell dich mit geschlossenen Füßen und gestreckten Beinen aufrecht hin. Deinen Hüftumfang misst du in Höhe des seitlichen Knochenhügels am Oberschenkel, also an der breitesten Stelle deiner Hüfte.\n\nNimm deine Maße einmal pro Woche – nicht öfter, nicht seltener.";
+// "calories_motivation_message"
+"Calories_motivation_message" = "Mach weiter so und lass die Kalorien brennen!";
+// "nutrition_settings"
+"Nutrition_settings" = "Einstellungen Ernährung";
+// "subscription_not_found"
+"Subscription_not_found" = "Kein Abonnement gefunden";
+// "dashboard_settings_title"
+"Program_settings" = "Programm\nEinstellungen";
+// "coachmark_hint_nutrition"
+"Nutrition_points_hint" = "Klicke jeden Tag auf die Karten\num deine Punkte einzutragen";
+// "recipe_nutrition_fact_unsaturatedfat"
+"Fat_unsaturated" = "Ungesättigte\nFette";
+// "alert_download_cancel"
+"Alert_download_cancel_action" = "Download abbrechen";
+// "workouts_title_light_quick"
+"Quick_and_easy" = "Schnell und Einfach";
+// "settings_go_premium"
+"Premium_go" = "Premium Mitglied werden";
+// "notification_network_paused_message"
+"Download_paused_message" = "Download wurde angehalten, da die WLAN Verbindung unterbrochen wurde.";
+// "notification_network_paused_message_plural"
+"Downloads_paused_message" = "Die Downloads wurden angehalten, da die WLAN Verbindung unterbrochen wurde.";
+// "data_privacy_title_activated"
+"Vitals_activated" = "Du hast deine Vitaldaten aktiviert!";
+// "snackbar_download_canceled"
+"Download_cancelled" = "Download wurde abgebrochen";
+// "fitness_profile_height_input"
+"Height_input" = "Größe eintragen";
+// "generic_alert_later"
+"Alert_not_now_action" = "Nicht jetzt";
+// "workouts_title_medium"
+"Medium" = "Mittel";
+// "home_recipes_title"
+"Recipes_suggestions" = "Deine Rezeptvorschläge";
+// "error_payments_disabled_alert_message"
+"Alert_purchases_enable_message" = "Bitte aktiviere In-App Käufe in den Einstellungen";
+// "password_change_success_message"
+"Password_change_success" = "Dein Password wurde erfolgreich geändert.\n\nDenk daran beim Anmelden dein neues Passwort zu verwenden.";
+// "notification_network_paused_title"
+"Download_paused" = "Download pausiert";
+// "alert_download_failed_full_storage_message"
+"Alert_download_failed_storage_full_message" = "Einige Downloads wurden abgebrochen, weil der Speicherplatz auf diesem Gerät voll ist. Wenn du etwas Platz freigegeben hast, kannst du den Download erneut auf der Download-Seite starten.";
+// "training_workout_move_days_s"
+"Workout_move_day" = "1 Tag später";
+// "settings_guest_hint"
+"Guest" = "Gast";
+// "shopping_list_button_update"
+"UPDATE" = "AKTUALISIEREN";
+// "programs_no_content_filter_message"
+"Programs_no_content_filter" = "Mit diesen Filtern konnten keine Programme gefunden werden. Probiere es mit anderen.";
+// "go_premium_promo_duration_months"
+"Months" = "Monate";
+// "formfield_invalid_message"
+"Invalid" = "Ungültig";
+// "error_password_mismatch"
+"Password_mismatch" = "Die eingegebenen Passwörter stimmen nicht überein.\nBitte überprüfe deine Eingaben";
+// "account_state_inactive"
+"Inactive" = "Inaktiv";
+// "timeline_header_plural_tv"
+"Programs_running" = "Deine laufenden Programme";
+// "conversion_title_start_tv"
+"Conversion_test_period" = "Teste eine Woche kostenlos";
+// "bmi_unlock_title", "fitness_profile_data_privacy_BMI_title"
+"BMI_unlock" = "BMI freischalten";
+// "alert_download_full_storage_title"
+"Alert_storage_full_title" = "Speicher voll";
+// "alert_download_full_storage_message"
+"Alert_storage_full_message" = "Du kannst Speicherplatz freigeben, in dem du heruntergeladene Videos löscht oder den Speicherplatz anderer Apps in den Einstellungen freigibts.";
+// "workouts_no_content_filter_message"
+"Workouts_no_content_filter" = "Mit diesen Filtern konnten keine Workouts gefunden werden. Probiere es mit anderen.";
+// "program_my_favorites_more_favorites"
+"PROGRAMS_FAVORITES_CHOOSE_MORE" = "MEHR WORKOUTS FAVORISIEREN";
+// "purchase_not_allowed_alert_message"
+"Purchases_not_allowed" = "Anscheinend gibt es ein Problem mit deinem Benutzerstatus. Bitte kontaktiere unseren Support";
+// "notification_action_resume"
+"Resume" = "Fortsetzen";
+// "recipe_fist_lightcarbs"
+"Carbs_light" = "Kohlenhydratarmes";
+// "generic_alert_title"
+"Alert_caution" = "Achtung!";
+// "home_offline_title"
+"Offline_title" = "Du bist zur Zeit offline!";
+// "start_workout_on_cellular_alert_title"
+"Alert_cellular_data_title" = "Mobile Daten!";
+// "start_workout_on_cellular_alert_message"
+"Alert_cellular_data_message" = "Du bist über 3G / LTE verbunden. Dies beeinträchtigt die Videoqualität und erhöht den mobilen Datenverbrauch.\nTrotzdem fortfahren?";
+// "program_mygoals_no_workouts"
+"Program_goals_no_workouts" = "Bitte ändere deine Auswahl, um mehr\nWorkouts zu erhalten.";
+// "settings_show"
+"Settings_show" = "Einstellungen Ansehen";
+// "recipes_no_content_favorite_message"
+"Recipes_no_content_favorite" = "Geh zur Rezepte Übersicht und wähle deine Favoriten";
+// "workouts_no_content_filter_title"
+"Workouts_no_content_filter_title" = "Keine Workouts gefunden.";
+// "your"
+"Your" = "Deine";
+// "notification_network_paused_title_plural"
+"Downloads_paused" = "Downloads pausiert";
+// "shopping_list_share_recipes"
+"Shopping_list_share_recipes" = "\nFür diese Rezepte:\n";
+// "error_payments_disabled_alert_title"
+"Alert_purchases_disabled_title" = "In-App Käufe nicht aktiviert";
+// "error_password_same_as_old"
+"Password_not_changed" = "Das neue Passwort stimmt mit dem alten überein.\nBitte wähle ein neues Passwort.";
+// "recipes_title_foodtype"
+"Recipes_food_type" = "Rezept-Typ";
+// "recipes_title_mealtype"
+"Recipes_meal_type" = "Mahlzeit";
+// "home_plan_offline_title"
+"Offline" = "Offline";
+// "filter_tags"
+"CATEGORY" = "KATEGORIE";
+// "shopping_list_snackbar_limit_message"
+"Shopping_list_limit_message" = "Limit erreicht. Bitte entferne Rezepte";
+// "shopping_list_share_greeting"
+"Shopping_list_share_greeting" = "Wir wünschen dir guten Appetit,\nDein Gymondo Team";
+// "search_placeholder_recipes"
+"Recipes_search_placeholder" = "Nach Rezepten suchen";
+// "workouts_no_content_favorite_message"
+"Workouts_no_content_favorite_message" = "Geh zur Workout Übersicht und wähle deine Favoriten";
+// "formfield_required_message"
+"Required" = "Erforderlich";
+// "Learn_more"
+"Learn_more" = "Mehr erfahren";
+// "home_programs_subtitle"
+"Programs_start_new" = "Starte ein neues Programm";
+// "recipe_nutrition_fact_energy"
+"Energy" = "Energie";
+// "programs_no_content_filter_title"
+"Programs_no_content_filter_title" = "Keine Programme gefunden.";
+// "alert_download_pause"
+"Alert_download_pause" = "Download anhalten";
+// "calories_motivation_no_calories"
+"Calories_no_content_motivation" = "Starte dein nächstes Workout und sieh dir deinen Fortschritt in dieser Woche an!";
+// "training_week_day_workout_missed_short"
+"Workout_missed" = "Verpasst";
+// "workouts_cta_title"
+"UNLOCK_ALL" = "ALLES FREISCHALTEN";
+// "program_choose_goals_btn"
+"GOALS_CHOOSE" = "WÄHLE DEINE ZIELE";
+// "filter_duration_any"
+"Filter_any" = "egal";
+// "generic_alert_update"
+"Update" = "Update";
+// "gender_female"
+"Female" = "Weiblich";
+// "search_history_header"
+"Search_history" = "Suchverlauf";
+// "repetitions_unit"
+"Repetitions_abbr" = "Wdh.";
+// "fitness_profile_vital_description_weight"
+"Vitals_weight_input" = "Trag dein Gewicht ein.";
+// "shopping_list_button_add"
+"SHOPPING_LIST" = "EINKAUFSZETTEL";
+// "xkA-9K-rTv.normalTitle", "1ed-6x-tf2.normalTitle", "Q9R-ZJ-YhK.normalTitle", "QK5-oW-j6r.normalTitle", "CHF-c9-Zg6.normalTitle", "sYY-wN-df5.normalTitle"
+"SAVE" = "SPEICHERN";
+// "nzs-K1-74O.normalTitle", "5sx-Am-5u5.normalTitle", "change_program_alert_action_save"
+"Save" = "Speichern";
+// "fitness_check_btn_next"
+"SAVE_AND_CONTINUE" = "SPEICHERN UND FORTFAHREN";
+// "fitness_check_btn_end"
+"SAVE_AND_RESULT" = "SPEICHERN UND ERGEBNIS ANSEHEN";
+// "program_config_edit_btn"
+"DONE" = "FERTIG";
+// "fitness_profile_vital_description_waist"
+"Vitals_waist_instruction" = "Lege das Maßband um deinen Bauch waagerecht an, ungefähr in Bauchnabelhöhe. Atme sanft aus, entspsanne die Bauchmuskeln und lies dein Ergebnis ab. Achte darauf, den Bauch nicht einzuziehen.\n\nNimm deine Maße am besten immer zur selben Zeit, z.B. morgens vor dem Frühstück. Dein Bauchumfang variiert im Laufe des Tages um einige Zentimeter.";
+// "search_placeholder_workouts"
+"Workout_search_placeholder" = "Nach Workouts suchen";
+// "shopping_list_section_bought_header"
+"Shopping_list_done" = "Erledigt";
+// "notify_fitness_profile_save_success"
+"Fitness_profile_save_success" = "Danke, wir haben deine Angaben gespeichert.";
+// "alert_download_resume"
+"Alert_download_resume_action" = "Download fortsetzen";
+// "go_premium_heading_onboard"
+"Conversion_program_unlock" = "Programm mit\nPremium freischalten";
+// "recipe_fist_heavycarbs"
+"Carbs_heavy" = "Kohlenhydratreiches";
+// "settings_newsletter_accepted"
+"Settings_newsletter_accepted" = "Du kannst jederzeit vom Newsletter abmelden, indem du deine Newslettereinstellungen auf dieser Seite bearbeitest oder dich über den \"Newslettereinstellungen bearbeiten\"-Link im Newsletter abmelden.";
+// "home_offline_hint_action"
+"Downloads_location_action" = "WEITER ZU DOWNLOADS";
+// "workouts_cta_subtitle"
+"Conversion_workouts_header" = "Wähle frei aus über 600\nverschiedenen Workouts";
+// "settings_newsletter_not_accepted"
+"Settings_newsletter_not_accepted" = "Bestätige deine Anmeldung, um wichtige Informationen zu deinem Programm und Trainingserinnerungen per E-Mail zu erhalten.";
+// "recipes_no_content_filter_title"
+"Recipes_no_content_filter_title" = "Keine Rezepte gefunden.";
+// "tool_voucher_clipboard"
+"Voucher_clipboard" = "Code wurde in die Zwischenablage kopiert";
+// "shopping_list_share_header"
+"Shopping_list_share_header" = "Meine Gymondo Einkaufsliste\n\nBenötigte Zutaten:\n\n";
+// "gender_male"
+"Male" = "Männlich";
+// "recipes_title_quick_breakfast"
+"Recipes_title_quick_breakfast" = "Schnell gekocht Frühstück";
+// "vital_card_input"
+"Vitals_input" = "Hier eingeben";
+// "dashboard_motivational_title"
+"Dashboard_motivational_title" = "Du bist\ngroßartig!";
+// "dashboard_motivational_subtitle"
+"Dashboard_motivational_subtitle" = "Schau dir das Video an";
+// "shopping_list_button_remove"
+"REMOVE" = "ENTFERNEN";
+// "dashboard_twoprograms_title"
+"Programs_start_second" = "Starte ein zweites\nProgramm";
+// "recipes_title_tag"
+"Category" = "Kategorie";
+// "recipe_nutrition_fact_carbs"
+"Carbs_br" = "Kohlen-\nhydrate";
+// "training_action_edit_days"
+"Workout_days" = "Workout Tage";
+// "downloads_title_freemium"
+"Downloads_conversion" = "Als Gymondo Premium User hast du die Möglichkeit deine Workouts herunterzuladen und Offline zu trainieren";
+// "alert_downloads_logout"
+"Alert_downloads_logout" = "Beim Abmelden werden alle heruntergeladenen Videos gelöscht.";
+// "home_other_programs_list_title"
+"Programs_other_goals" = "Programme für andere Ziele";
+// "alert_downloads_not_possible_offline"
+"Alert_offline_not_possible" = "Dies ist Offline nicht möglich.";
+// "fitness_profile_vital_description_thigh"
+"Vitals_thigh_description" = "Um deinen Beinumfang zu messen, legst du das Maßband an der breitesten Stelle des Oberschenkels direkt unter dem Po an. Es reicht, wenn du ein Bein misst. Halte die Beinmuskulatur entspannt dabei.\n\nNimm deine Maße einmal pro Woche – nicht öfter, nicht seltener.";
+// "workouts_title_filtered"
+"Workouts_filter_title" = "Workouts für";
+// "workout_programs_list_title"
+"Programs_with_workout" = "Programme mit diesem Workout";
+// "mailfield_invalid_message"
+"E_mail_invalid" = "Ungültige E-Mail Adresse";
+// "recipes_title_low_carb_dinner"
+"Recipes_low_carb_dinner" = "Low Carb Abendessen";
+// "recipe_nutrition_fact_fibers"
+"Fibers_br" = "Ballast-\nstoffe";
+// "recipes_no_content_filter_message"
+"Recipes_no_content_filter_message" = "Mit diesen Filtern konnten keine Rezepte gefunden werden. Probiere es mit anderen.";
+// "alert_message_privacy_vitals"
+"Alert_message_privacy_vitals" = "Beim Deaktivieren werden alle eingetragenen Vitaldaten und darauf basierende Berechnungen (z.B. Kalorien, BMI), sowie dein Gewichtsverlauf gelöscht.";
+// "date_on"
+"on_date" = "am";
+// "api_compatibility_message"
+"Api_compatibility_message" = "Deine Version der Gymondo App ist veraltet. Wir empfehlen dir ein Update auf die aktuelle Version, um alle Funktionen der App optimal nutzen zu können!";
+// "downloads_title_empty"
+"Downloads_no_content" = "Im Moment hast du keine heruntergeladenen Workouts";
+// "timeline_header_tv"
+"Program_running" = "Dein laufendes Programm";
+// "shopping_list_snackbar_bought_message"
+"Shopping_list_ingredient_bought" = "Zutat nach Erledigt verschoben";
+// "decline"
+"Decline" = "Ablehnen";
+// "alert_title_privacy_pictures"
+"Alert_privacy_disable_pictures_title" = "Speicherung von hochgeladenen Fotos deaktivieren";
+// "alert_message_privacy_pictures"
+"Alert_privacy_disable_pictures_message" = "Beim deaktivieren der Speicherung werden alle hochgeladenen Fotos gelöscht.\n• Dein Profilbild wird gelöscht\n• Deine Ganzkörper-Fortschritsbilder werden gelöscht";
+// "nutrition_food_type_0"
+"All" = "Alles";
+// "wrong_due_date_message"
+"Date_invalid" = "Dieses Datum ist nicht gültig.";
+// "recipes_cta_title"
+"Conversion_nutrition_unlock_title" = "Ernährungsplan\nfreischalten";
+// "recipes_cta_subtitle"
+"Conversion_nutrition_unlock_message" = "Unterstütze dein Training\nmit der passenden Ernährung!";
+// "video_control_skip_next_exercise"
+"Video_exercise_skip" = "Übung\nüberspringen";
+// "video_control_skip_next_challenge"
+"Video_challenge_skip" = "Challenge\nüberspringen";
+// "nutrition_message_green"
+"Nutrition_zone_green" = "Toll gemacht, du bist heute in der Green Zone!";
+// "nutrition_message_clean"
+"Nutrition_zone_clean" = "Gratuliere, du bist heute in der Clean Zone!";
+// "fitness_profile_cell_calories_info"
+"This_week" = "Diese Woche";
+// "nutrition_intro_plan_subtitle"
+"Nutrition_intro_plan_subtitle" = "Dein Begleiter für ein gesundes Leben";
+// "email_optin_onboarding_free"
+"Conversion_welcome_fmt" = "Hey %@, willkommen im Team Gymondo!";
+// "fitness_profile_height"
+"Height_fmt" = "%ldcm";
+// "dashboard_progress_weeks"
+"Weeks_remaining_fmt" = "Noch %ld Wochen";
+// "tool_with"
+"Equipment_with_fmt" = "Mit %@";
+// "cancel_continuous_program_alert_message"
+"Alert_program_cancel_fmt" = "Du möchtest das Programm %@ beenden.\nSollen deine aktuellen Fortschritte gespeichert werden?";
+// "fitness_check_step"
+"Step_fmt" = "Schritt %ld";
+// "onboarding_animation_info"
+"Onboarding_animation_info_fmt" = "Einen Moment noch %@! Wir erstellen das perfekte Training für dich und deine Ziele";
+// "email_optin_onboarding_premium"
+"Conversion_finished_fmt" = "Super %@, du hast dich richtig entschieden!";
+// "vital_enter"
+"Vitals_enter_fmt" = "%@ eintragen";
+// "conversion_title_missed_tv"
+"Conversion_motivation_fmt" = "%@, starte jetzt durch!";
+// "dashboard_settings_workout_days_fixed"
+"Training_days_change_fmt" = "Hier kannst du deine Trainingstage ändern. Wähle %d %@ pro Woche für dein Training.";
+// "workout_video_complete_message"
+"Calories_burned_fmt" = "Du hast %d Kalorien verbrannt!";
+// "training_workout_move_days_m"
+"Workout_move_days_fmt" = "%d Tage später";
+// "wrong_workout_days_message"
+"Alert_training_days_choose_fmt" = "Die richtige Trainingsintensität ist entscheidend für deinen Erfolg. Bitte wähle min. %ld und max. %ld Trainingstage.";
+// "program_my_favorites_required_workouts"
+"Programs_favorites_required_workouts_fmt" = "Du brauchst mindestens %ld favorisierte Workouts, um das Programm zu starten.";
+// "program_config_workout_days_fixed"
+"Training_days_choose_fmt" = "Bitte wähle %d Workout%@ für dieses Programm.";
+// "subscription_paused_ending"
+"Subscription_paused_ending_fmt" = "Deine Pause endet in spätestens %d Tagen automatisch.";
+// "program_mygoals_tv_workouts_error"
+"Programs_goals_required_workouts_fmt" = "Insgesamt %d Workouts. Bitte ändere deine Auswahl, um mehr Workouts zu erhalten.";
+// "nutrition_settings_end_plan_messsage"
+"Nutrition_plan_end_fmt" = "Möchtest du das Ernährungsprogramm %@ beenden? Du kannst es jederzeit wieder starten.";
+// "alert_vital_input_invalid"
+"Alert_vital_input_invalid_fmt" = "Bitte gib einen Wert zwischen %d und %d %@ ein.";
+// "subscription_info"
+"Subscription_info_fmt" = "%@ Paket, endet am %@";
+// "fitness_check_last_check"
+"Fitness_check_last_check_fmt" = "Letzter Check am %@";
+// "program_mygoals_error_days_min"
+"Program_days_min_error_fmt" = "Lege min. %ld Trainingstage fest!";
+// "program_mygoals_error_days_max"
+"Program_days_max_error_fmt" = "Lege max. %ld Trainingstage fest!";
+// "nutrition_statistics_message_clean"
+"Nutrition_zone_clean_fmt" = "Glückwunsch %@, du bist in der Clean Zone. Bleib dabei! Deine jetzige Ernährung unterstützt dich perfekt um dein Ziel zu erreichen.";
+// "calories_performace_message"
+"Calories_performance_fmt" = "Tolle Leistung %@";
+// "nutrition_intro_plan_goal_subtitle"
+"Nutrition_goal_fmt" = "Dein Ziel ist %@";
+// "go_premium_promo_cell_title"
+"Conversion_promo_fmt" = "Aktion: %@ kostenlos testen";
+// "go_premium_promo_title"
+"Conversion_promo_fmt_br" = "Aktion\nGymondo Premium %@ kostenlos testen";
+// "home_fitness_check_result_title"
+"Fitness_check_level_fmt" = "Dein Fitnesscheck\nLevel ist %@";
+// "wrong_workout_days_fixed_message"
+"Alert_training_days_fixed_choose_fmt" = "Die richtige Trainingsintensität ist entscheidend für deinen Erfolg. Bitte wähle genau %d Trainings%@.";
+// "nutrition_statistics_message_green"
+"Nutrition_zone_green_fmt" = "Super, %@, weiter so! Du bist in der Green Zone, da du die letzten 7 Tage im Durchschnitt %d Punkte erreicht hast. Erreiche die Clean Zone!";
+// "fitness_check_how_to"
+"Fitness_check_how_to_fmt" = "%@ - So wird's gemacht";
+// "conversion_title_missed"
+"Conversion_start_fmt" = "%@,\nstarte jetzt durch!";
+// "training_completed_message"
+"Training_completed_message_fmt" = "Glückwunsch! Du hast dein Programm %@ erfolgreich absolviert!%@ Bleib dabei und starte gleich ein neues Programm!";
+// "program_mygoals_available_workouts"
+"Program_available_workouts_fmt" = "Insgesamt %ld Workouts";
+// "email_optin_postlogin"
+"E_mail_motivation_fmt" = "Hey %@, hol dir deine ganz persönliche Unterstützung!";
+// "nutrition_statistics_message_basic"
+"Nutrition_zone_basic_fmt" = "Super %@, weiter so! Du bist in der Basic Zone, da du die letzten 7 Tage im Durchschnitt %d Punkte erreicht hast. Erreiche die Clean Zone!";
+// "home_planday_subtitle_workout"
+"Workouts_upcoming_count_fmt" = "Du hast %d %@ %@";
+// "subscription_discount"
+"Subscription_discount_fmt" = "Spare %d%%";
+// "dashboard_nutrition_plan_title"
+"Nutrition_zone_fmt" = "Du bist in der\n%@";
+// "calories_performance_no_calories"
+"Motivation_fmt" = "Los geht's %@!";
+// "dashboard_progress_goal"
+"Goal_fmt" = "Ziel: %@";
+// "onboarding_surname_description"
+"Onboarding_surname_description_fmt" = "Hi %@, schön dich kennenzulernen! Wie ist dein Nachname?";
+// "conversion_text_start_tv", "onboarding_conversion_text"
+"Conversion_workouts_free_fmt" = "Wir schenken dir zwei Gratis Workouts. Teste %@ kostenlos und unverbindlich. Los geht's!";
+// "nutrition_point_message_bonus"
+"Nutrition_point_bonus_fmt" = "%d Punkt für %@ + %d Bonus Punkte";
+// "nutrition_point_message_bonus_plural"
+"Nutrition_points_bonus_fmt" = "%d Punkte für %@ + %d Bonus Punkte";
+// "workout_video_complete_message_tv"
+"Workout_complete_message_fmt" = "Glückwunsch! Du hast %d Kalorien verbrannt!";
+// "shopping_list_recipe_count_ingredients"
+"Shopping_list_count_ingredients_fmt" = "Deine Zutaten für %d %@";
+// "shopping_list_recipe_count_recipes"
+"Shopping_list_count_recipes_fmt" = "Du hast %d %@ in der Einkaufsliste";
+// "error_password_to_short"
+"Password_error_too_short" = "Bitte wähle ein Password mit mindestens 8 Zeichen.";
+// "go_premium_promo_duration_month"
+"Month" = "Monat";
+// "dashboard_nutrition_title"
+"Nutrition_plan_gymondo" = "Gymondo\nErnährungsplan";
+// "shopping_list_snackbar_added_message"
+"Shopping_list_added" = "Zur Einkaufsliste hinzugefügt";
+// "onboarding_surname_placeholder"
+"Onboarding_surname_placeholder" = "Dein Nachname";
+// "subscription_one_time_payment"
+"Subscription_one_time_payment" = "Einmalzahlung";
+// "recipes_fist_description"
+"Recipes_fist_description" = "<p>Die Faust ist deine Mengeneinheit für das Gymondo Schlank in 10 Wochen Programm. Wir haben uns bewusst für die Einheit “Fäuste” entschieden.</p><p>Denn deine Faust…</p><ul><li>ist ein individuell großes Maß und bei jedem anders.</li><li>fördert ein natürliches Gefühl für Portionsgrößen.</li><li>ist die Alternative zum lästigen Lebensmittelabwiegen und Kalorienzählen.</li></ul><p>Je nach Art des Lebensmittels verwenden wir Fäuste, Handvoll, Esslöffel oder Handfläche als Maß zur Mengenbestimmung.</p>";
+// "hbb-84-FIg.text", "Cfl-Tq-ONc.text", "nutrition_points_card_subtitle"
+"Nutrition_zone_subtitle" = "Du bist in der";
+// "7pJ-NY-xHp.text"
+"Points_1" = "1 Punkt";
+// "32b-P0-2Q6.text", "Wiz-m0-JXK.text", "goF-cv-FQi.text"
+"Points_2" = "2 Punkte";
+// "RIC-9i-czA.text", "NX8-JK-jiF.text"
+"Points_3" = "3 Punkte";
+// "9Qj-dl-OJZ.text", "TMx-ox-jTj.text", "5up-g0-jbS.text"
+"Vitals_consent_personalize" = "Mache Gymondo persönlicher";
+// "AlK-8u-g6k.text", "dashboard_fitnesscheck_subtitle"
+"Fitness_check_go" = "Zum Fitnesscheck";
+// "Ale-2A-fbd.normalTitle", "na2-PZ-emd.normalTitle"
+"GYMONDO_GO" = "WEITER ZU GYMONDO";
+// "xkD-H3-lOC.text", "bzY-7k-K19.text"
+"Fitness_profile_input_vitals" = "Willst du deinen Fortschritt sehen?";
+// "kWR-nJ-xBd.text", "AYs-1l-Abf.text"
+"Training_settings_title" = "Einstellungen für";
+// "rrR-QF-uCy.text", "YQl-1u-U9Z.text"
+"Nutrition_cards_bonus_points_2" = "+2 Bonus Punkte";
+// "cgZ-ca-r4U.text"
+"Nutrition_cards_vegetables_fruit" = "auch Tiefkühlgemüse und Obst ohne Zusätze";
+// "Kp9-Kv-CJN.text"
+"Training_frequency_2" = "2X / W";
+// "K2O-us-T6m.text"
+"Training_frequency_3" = "3X / W";
+// "uIP-Cu-tah.text"
+"Training_frequency_4" = "4X / W";
+// "h5V-w6-KAk.text"
+"Training_frequency_5" = "5X / W";
+// "Fmy-jY-POg.normalTitle"
+"TRAINING_FREQUENCY_2_DESCRIPTION" = "NORMAL";
+// "BNl-fb-sf2.normalTitle"
+"TRAINING_FREQUENCY_3_DESCRIPTION" = "MOTIVIERT";
+// "Mcz-wH-tRA.normalTitle"
+"TRAINING_FREQUENCY_4_DESCRIPTION" = "SEHR MOTIVIERT";
+// "om0-QT-sqX.normalTitle"
+"TRAINING_FREQUENCY_5_DESCRIPTION" = "TOTAL VERRÜCKT";
+// "fBi-VC-sJ5.text"
+"Nutrition_zone_basic_points" = "0 - 7 Punkte";
+// "Ck0-vk-uZi.text"
+"Nutrition_zone_green_points" = "8 - 14 Punkte";
+// "CFa-4a-RYV.text"
+"Nutrition_zone_clean_points" = "15 - 20 Punkte";
+// "Qpq-M7-Qhf.text"
+"Nutrition_cards_possibility_1" = "Möglichkeit 1";
+// "rdO-cQ-Jhb.text"
+"Nutrition_cards_possibility_2" = "Möglichkeit 2";
+// "YLO-kf-ASM.text"
+"Calories_motivation_message_short" = "...und lass die Kalorien brennen";
+// "BpN-ou-es7.text"
+"Program_goals_step_2" = "Wähle deine Level (Schritt 2/4)";
+// "4Cq-l3-8gS.text"
+"Program_goals_step_1" = "Wähle deine Ziele (Schritt 1/4)";
+// "5p7-QE-8WM.text"
+"Program_goals_step_3" = "Bestimme die Workoutlänge (Schritt 3/4)";
+// "program_mygoals_tv_step_title_4"
+"Program_goals_step_4" = "Wähle Trainingstage (Schritt 4/4)";
+// "gjX-aP-N8K.normalTitle", "U5w-mX-f0v.normalTitle", "0wd-Ni-avy.normalTitle", "xKU-rO-KPg.normalTitle", "fQ6-CX-7Xg.normalTitle", "Jmb-nQ-EFe.normalTitle", "D9o-Jc-Q7g.normalTitle", "tlW-tZ-4Oy.normalTitle"
+"NO_THANKS" = "NEIN, DANKE";
+// "KJi-nc-2b8.text", "6x1-6A-M6g.text", "gpG-AI-yt8.text", "geD-gf-eEL.text"
+"Equipment" = "Geräte";
+// "B75-X1-hbb.normalTitle"
+"NO_CANCEL" = "NEIN, DOCH NICHT!";
+// alert_confirm_privacy
+"No_cancel" = "Nein, doch nicht!";
+// "two_programs_forbidden_title"
+"Programs_active_limit_title_fmt" = "Du hast schon %d aktive Programme";
+// "qFt-Nk-LJO.text", "settings_restore_purchases"
+"Purchases_restore" = "In-App Einkäufe wiederherstellen";
+// "nutrition_intro_title_0"
+"nutrition_intro_title_0_br" = "Erreiche deine\nZiele schneller";
+// "nutrition_intro_title_0_break"
+"nutrition_intro_title_0_ipad_br" = "Erreiche deine Ziele\nschneller";
+// "HSs-Tf-giz.text", "nutrition_intro_title_0_no_break"
+"nutrition_intro_title_0_ipad" = "Erreiche deine Ziele schneller";
+// "fitness_profile_vital_description_height"
+"Vitals_height_description" = "Bitte gib deine Größe für alle weiteren Berechnungen an";
+// "bmi_unlock_message"
+"Vitals_bmi_unlock_message" = "Bitte gib deine Größe für alle weiteren\nBerechnungen an:";
+// "0yB-Po-CZ1.text", "Mss-tD-mLP.text"
+"Vitals_weight_description" = "Bitte gib dein Gewicht für alle weiteren Berechnungen an:";
+// "conversion_title_end_tv"
+"Conversion_success_title" = "Glückwunsch zu deinem tollen Start!";
+// "conversion_title_end"
+"Conversion_success_title_br" = "Glückwunsch zu\ndeinem tollen Start!";
+// "mQy-3N-V1B.text", "aDf-vK-Q9T.text"
+"Program_goals_edit_later" = "Du kannst deine Einstellungen später noch\nbearbeiten.";
+// "rrk-7L-eX7.text", "LtR-VK-qxm.text"
+"Settings_edit_afterwards" = "Du kannst deine Einstellungen später noch bearbeiten.";
+// "two_programs_forbidden_copy"
+"Programs_active_limit_message" = "Um ein neues Programm zu starten musst du zuerst in den Einstellungen ein aktives Programm beenden.";
+// "start_program_too_many"
+"Alert_programs_active_limit" = "Es sind bereits zwei Programme aktiv. Beende zuerst ein Programm bevor du ein neues starten kannst.";
+// "home_offline_hint"
+"Downloads_location_hint" = "Deine heruntergeladenen Workouts eines Programmes findest du hier. Alle heruntergeladenen Workouts findest du unter Downloads.";
+// "workouts_first_time_download_notification"
+"Downloads_destination_hint" = "Du findest deine heruntergeladenen Videos im Menü unter Downloads.";
+// "workouts_too_many_downloads_notification"
+"Downloads_limit_reached" = "Du hast %d Workouts auf dem Gerät gespeichert. Wenn du diese löschen möchtest, gehe bitte zu Downloads.";
